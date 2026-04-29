@@ -1,0 +1,27 @@
+{
+  "top": ["All", "Workshop", "Exhibition", "Art", "Music", "Free", "Filters"],
+  "groups": {
+    "Event Type": [
+      "Workshop",
+      "Tour",
+      "Exhibition",
+      "Talk",
+      "Performance",
+      "Music",
+      "Walk"
+    ],
+    "Access": ["Free", "Paid"],
+    "Experience": [
+      "Art",
+      "Garden",
+      "Outdoor",
+      "Indoor",
+      "Family Friendly",
+      "Wellbeing",
+      "Nature",
+      "Food & Drink",
+      "Market",
+      "Community"
+    ]
+  }
+}

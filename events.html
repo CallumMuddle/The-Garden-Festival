@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Events</title>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <script src="script.js" defer></script>
+    <script src="js/events.js" defer></script>
+  </head>
+
+  <body>
+    <div class="bg-overlay"></div>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <!-- Sidebar toggle -->
+    <button
+      id="open-sidebar-button"
+      onclick="openSidebar()"
+      aria-label="open sidebar"
+      aria-expanded="false"
+      aria-controls="navbar"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        height="40px"
+        viewBox="0 -960 960 960"
+        width="40px"
+        fill="#c9c9c9"
+      >
+        <path
+          d="M165.13-254.62q-10.68 0-17.9-7.26-7.23-7.26-7.23-18t7.23-17.86q7.22-7.13 17.9-7.13h629.74q10.68 0 17.9 7.26 7.23 7.26 7.23 18t-7.23 17.87q-7.22 7.12-17.9 7.12H165.13Zm0-200.25q-10.68 0-17.9-7.27-7.23-7.26-7.23-17.99 0-10.74 7.23-17.87 7.22-7.13 17.9-7.13h629.74q10.68 0 17.9 7.27 7.23 7.26 7.23 17.99 0 10.74-7.23 17.87-7.22 7.13-17.9 7.13H165.13Zm0-200.26q-10.68 0-17.9-7.26-7.23-7.26-7.23-18t7.23-17.87q7.22-7.12 17.9-7.12h629.74q10.68 0 17.9 7.26 7.23 7.26 7.23 18t-7.23 17.86q-7.22 7.13-17.9 7.13H165.13Z"
+        />
+      </svg>
+    </button>
+
+    <!-- Sidebar -->
+    <nav id="navbar">
+      <ul>
+        <li>
+          <button
+            id="close-sidebar-button"
+            type="button"
+            onclick="closeSidebar()"
+            aria-label="close sidebar"
+          >
+            ✕
+          </button>
+        </li>
+
+        <li class="home-li">
+          <a href="index.html" class="nav-logo-link">
+            <img
+              class="nav-logo"
+              src="Web-Assets/logo-placeholder.svg"
+              alt="Winchester Garden Festival logo"
+            />
+            <span>The Garden Festival</span>
+          </a>
+        </li>
+
+        <li>
+          <a class="active-link" aria-current="page" href="events.html"
+            >Events</a
+          >
+        </li>
+        <li><a href="map.html">Map</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div id="overlay" onclick="closeSidebar()" aria-hidden="true"></div>
+
+    <!-- MAIN CONTENT -->
+
+    <!--Date Filturer-->
+    <main id="main-content">
+      <!-- HEADER -->
+      <section class="events-header">
+        <h1>Events</h1>
+        <p>
+          Discover workshops, talks, performances, and garden experiences across
+          Winchester. Filter by date, type, or interest to plan your visit.
+        </p>
+      </section>
+
+      <!-- TOOLBAR (DATE + SEARCH) -->
+      <section class="events-toolbar">
+        <div class="date-filter-wrapper">
+          <label for="dateSelect">Date</label>
+          <select id="dateSelect" class="date-select"></select>
+        </div>
+
+        <div class="search-wrapper">
+          <label for="search">Search</label>
+          <input
+            id="search"
+            type="search"
+            placeholder="Search event, venue, organiser..."
+          />
+        </div>
+      </section>
+
+      <!-- TAG BAR -->
+      <div id="tagBar" class="tag-bar"></div>
+
+      <!-- ACTIVE FILTERS / COUNT -->
+      <div id="activeFilters" class="active-filters"></div>
+
+      <!-- FILTER DRAWER -->
+      <div id="filterDrawer" class="filter-drawer" aria-hidden="true">
+        <div class="filter-drawer-content">
+          <div class="filter-drawer-header">
+            <h2>Filters</h2>
+            <button id="closeFilters" type="button" aria-label="Close filters">
+              ✕
+            </button>
+          </div>
+
+          <div id="filterGroups"></div>
+
+          <div class="filter-drawer-actions">
+            <button id="clearFilters" type="button">Clear filters</button>
+            <button id="applyFiltersButton" type="button">Apply</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="filterOverlay" class="filter-overlay" aria-hidden="true"></div>
+
+      <!-- EVENTS GRID -->
+      <section id="events-groups"></section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-container">
+        <!-- Brand -->
+        <div class="footer-section">
+          <h3>Winchester Garden Festival</h3>
+          <p>Celebrating nature, art, and community across Winchester.</p>
+        </div>
+
+        <!-- Navigation -->
+        <div class="footer-section">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="map.html">Map</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div>
+
+        <!-- Info -->
+        <div class="footer-section">
+          <h4>Info</h4>
+          <ul>
+            <li><a href="#">Tickets</a></li>
+            <li><a href="#">Accessibility</a></li>
+            <li><a href="#">FAQs</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </div>
+
+        <!-- Social -->
+        <div class="footer-section">
+          <h4>Follow</h4>
+          <div class="footer-socials">
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Bottom bar -->
+      <div class="footer-bottom">
+        <p>© 2026 Winchester Garden Festival</p>
+      </div>
+    </footer>
+  </body>
+</html>

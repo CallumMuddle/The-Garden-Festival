@@ -1,0 +1,3140 @@
+[
+  {
+    "id": "watercolour-well-being-workshop",
+    "name": "Watercolour Well-being Workshop",
+    "venue": "Stem and Green Flower Farm",
+    "location": {
+      "street": "Down Farm Lane",
+      "postcode": "SO23 7LA",
+      "city": "Winchester",
+      "lat": 51.08987045288086,
+      "lng": -1.3107351064682007
+    },
+    "datetime": {
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-19",
+      "startTime": "10:00",
+      "endTime": "13:00"
+    },
+    "organiser": {
+      "name": "Lisa Gardner",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Explore free-flowing painting techniques & breathing meditations.",
+    "details": "<p>Lisa Gardner is a watercolour artist inspired by the natural world, the connection between breath and brushwork, and rare wildflower species on the edge of extinction.</p><p>Explore free-flowing painting techniques & breathing meditations to nurture your creativity and inspire calm. After a tour of the flower field and a chance to pick a vase of flowers, Lisa will take you through how to draw on your creative voice, trust your intuition and be inspired by vibrant seasonal botanicals.</p><p>Tickets £75</p>",
+    "tags": [
+      "Workshop",
+      "Paid",
+      "Art",
+      "Garden",
+      "Outdoor",
+      "Wellbeing",
+      "Nature"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/watercolour-well-being-workshop/thumb.jpg",
+      "cover": "images/events/watercolour-well-being-workshop/cover.jpg",
+      "gallery": [
+        "images/events/watercolour-well-being-workshop/1.jpg",
+        "images/events/watercolour-well-being-workshop/2.jpg",
+        "images/events/watercolour-well-being-workshop/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 75,
+      "currency": "GBP",
+      "label": "Tickets £75"
+    }
+  },
+  {
+    "id": "swedish-midsommar-celebration",
+    "name": "Swedish Midsommar Celebration",
+    "venue": "Oram’s Arbour",
+    "location": {
+      "street": "Clifton Rd",
+      "postcode": "SO22 5BU",
+      "city": "Winchester",
+      "lat": 51.065011189725425,
+      "lng": -1.3225295019594
+    },
+    "datetime": {
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-19",
+      "startTime": "17:30",
+      "endTime": "20:30"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Celebrate midsummer Swedish style!",
+    "details": "<p>Celebrate midsummer Swedish style!</p><p>The evening will start with everyone helping decorate the Swedish maypole with the support of Featherstone Flowers. Then, there will be a floral crown making opportunity for children and grown-ups, followed by Swedish songs around the maypole performed by Stockbridge Primary School. Local folk duo, Confluence, will play Swedish music, there will be meatballs and Swedish fika on sale with our local Stuga Swedish Bakery, and then Irish shanty music with ShantyHead to create a rousing end to the evening. Bring a picnic, rugs or tables and chairs.</p><p>Tickets free – but please book your place online</p>",
+    "tags": [
+      "Performance",
+      "Music",
+      "Free",
+      "Garden",
+      "Outdoor",
+      "Food & Drink",
+      "Community",
+      "Family Friendly"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/swedish-midsommar-celebration/thumb.jpg",
+      "cover": "images/events/swedish-midsommar-celebration/cover.jpg",
+      "gallery": [
+        "images/events/swedish-midsommar-celebration/1.jpg",
+        "images/events/swedish-midsommar-celebration/2.jpg",
+        "images/events/swedish-midsommar-celebration/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free, booking required"
+    }
+  },
+  {
+    "id": "contemporary-sculpture-trail-06-20",
+    "name": "Contemporary Sculpture Trail & Art Gallery Summer Show",
+    "venue": "Atherton Green Art Gallery & Garden",
+    "location": {
+      "street": "Upper Farringdon",
+      "postcode": "GU34 3EH",
+      "city": "Alton",
+      "lat": 51.113253681821114,
+      "lng": -0.9855859214712173
+    },
+    "datetime": {
+      "startDate": "2026-06-20",
+      "endDate": "2026-06-20",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Contemporary art exhibition with outdoor sculpture trail.",
+    "details": "<p>An exhibition of contemporary art, including painting, sculpture and ceramics with an outdoor sculpture trail. Set in the house and gardens of a former Victorian rectory.</p><p>Free admission</p><p>www.athertongreen.art</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/contemporary-sculpture-trail/thumb.jpg",
+      "cover": "images/events/contemporary-sculpture-trail/cover.jpg",
+      "gallery": [
+        "images/events/contemporary-sculpture-trail/1.jpg",
+        "images/events/contemporary-sculpture-trail/2.jpg",
+        "images/events/contemporary-sculpture-trail/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free admission"
+    }
+  },
+  {
+    "id": "wessex-sculptors-exhibition-06-20",
+    "name": "Exhibition in the garden by The Wessex Sculptors",
+    "venue": "Quaker Meeting House Garden",
+    "location": {
+      "street": "Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester",
+      "lat": 51.06031229878847,
+      "lng": -1.309578509109311
+    },
+    "datetime": {
+      "startDate": "2026-06-20",
+      "endDate": "2026-06-20",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "The Wessex Sculptors",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Enjoy the varied and skilled work of the Wessex Sculptors.",
+    "details": "<p>Enjoy the varied and skilled work of the Wessex Sculptors displayed in the little-known gardens of The Quaker Meeting House off Colebrook Street. 10 artists will be on display.</p><p>There will also be artists sketching and painting the gardens on certain days.</p><p>Free Entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/wessex-sculptors-exhibition/thumb.jpg",
+      "cover": "images/events/wessex-sculptors-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/wessex-sculptors-exhibition/1.jpg",
+        "images/events/wessex-sculptors-exhibition/2.jpg",
+        "images/events/wessex-sculptors-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "flower-pressing-workshop",
+    "name": "Flower Pressing Workshop",
+    "venue": "Stem and Green Flower Farm",
+    "location": {
+      "street": "Down Farm Lane",
+      "postcode": "SO23 7LA",
+      "city": "Winchester",
+      "lat": 51.091658203815484,
+      "lng": -1.3109926866171362
+    },
+    "datetime": {
+      "startDate": "2026-06-20",
+      "endDate": "2026-06-20",
+      "startTime": "10:00",
+      "endTime": "13:00"
+    },
+    "organiser": {
+      "name": "Lucy Whitfield",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Learn the art of flower pressing with guided techniques.",
+    "details": "<p>Join artist Lucy Whitfield for this three-hour workshop, to guide you through all the elements and top tips of flower pressing. Pick flowers from the field and learn how to press. Later, arrange some pre-pressed flowers to create a beautiful work of art. Cake and tea.</p><p>Tickets £85</p>",
+    "tags": ["Workshop", "Paid", "Art", "Garden", "Outdoor", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/flower-pressing-workshop/thumb.jpg",
+      "cover": "images/events/flower-pressing-workshop/cover.jpg",
+      "gallery": [
+        "images/events/flower-pressing-workshop/1.jpg",
+        "images/events/flower-pressing-workshop/2.jpg",
+        "images/events/flower-pressing-workshop/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 85,
+      "currency": "GBP",
+      "label": "Tickets £85"
+    }
+  },
+  {
+    "id": "gatehouse-artists-exhibition-06-20",
+    "name": "The Gatehouse Studios Artists’ Exhibition and Workshops",
+    "venue": "The Gatehouse Studios and Garden",
+    "location": {
+      "street": "15 St. James Lane",
+      "postcode": "SO22 4NX",
+      "city": "Winchester",
+      "lat": 51.060963271078286,
+      "lng": -1.3230523755017647
+    },
+    "datetime": {
+      "startDate": "2026-06-20",
+      "endDate": "2026-06-20",
+      "startTime": "11:00",
+      "endTime": "16:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Local artists exhibition in a unique garden setting.",
+    "details": "<p>Enjoy the work of 9 eclectic local artists displaying in this unique location and garden at the entrance to the cemetery. With Suna Imre, Eileen White, Iris Hill, Georgie Carrs, Barry Gower, Lisa Orlandi, Janet Price, Noel Perkins, and Tori McLean.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/gatehouse-artists-exhibition/thumb.jpg",
+      "cover": "images/events/gatehouse-artists-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/gatehouse-artists-exhibition/1.jpg",
+        "images/events/gatehouse-artists-exhibition/2.jpg",
+        "images/events/gatehouse-artists-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "festival-in-the-garden-06-20",
+    "name": "Festival in the Garden",
+    "venue": "The March Hare",
+    "location": {
+      "street": "Prior’s Dean Road",
+      "postcode": "SO22 6JN",
+      "city": "Winchester",
+      "lat": 51.0819223534025,
+      "lng": -1.333303788123679
+    },
+    "datetime": {
+      "startDate": "2026-06-20",
+      "endDate": "2026-06-20",
+      "startTime": "13:00",
+      "endTime": "01:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Community-led garden festival with stalls, BBQ, and live music.",
+    "details": "<p>Join us for a community-led day in this pub garden with a mix of local stalls including a face painter, locally made bread from Buriton Bakery, crafts stalls and plant stall, plus an all-day BBQ, bouncy castle and live music from Audio Pirates to round off the day.</p><p>Free entry</p>",
+    "tags": [
+      "Performance",
+      "Music",
+      "Free",
+      "Garden",
+      "Outdoor",
+      "Food & Drink",
+      "Market",
+      "Community",
+      "Family Friendly"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/festival-in-the-garden/thumb.jpg",
+      "cover": "images/events/festival-in-the-garden/cover.jpg",
+      "gallery": [
+        "images/events/festival-in-the-garden/1.jpg",
+        "images/events/festival-in-the-garden/2.jpg",
+        "images/events/festival-in-the-garden/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "contemporary-sculpture-trail-06-21",
+    "name": "Contemporary Sculpture Trail & Art Gallery Summer Show",
+    "venue": "Atherton Green Art Gallery & Garden",
+    "location": {
+      "street": "Upper Farringdon",
+      "postcode": "GU34 3EH",
+      "city": "Alton",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-21",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Contemporary art exhibition with outdoor sculpture trail.",
+    "details": "<p>An exhibition of contemporary art, including painting, sculpture and ceramics with an outdoor sculpture trail. Set in the house and gardens of a former Victorian rectory.</p><p>Free admission</p><p>www.athertongreen.art</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/contemporary-sculpture-trail/thumb.jpg",
+      "cover": "images/events/contemporary-sculpture-trail/cover.jpg",
+      "gallery": [
+        "images/events/contemporary-sculpture-trail/1.jpg",
+        "images/events/contemporary-sculpture-trail/2.jpg",
+        "images/events/contemporary-sculpture-trail/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free admission"
+    }
+  },
+  {
+    "id": "wessex-sculptors-exhibition-06-21",
+    "name": "Exhibition in the garden by The Wessex Sculptors",
+    "venue": "Quaker Meeting House Garden",
+    "location": {
+      "street": "Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-21",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "The Wessex Sculptors",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Enjoy the varied and skilled work of the Wessex Sculptors.",
+    "details": "<p>Enjoy the varied and skilled work of the Wessex Sculptors displayed in the little-known gardens of The Quaker Meeting House off Colebrook Street. 10 artists will be on display.</p><p>There will also be artists sketching and painting the gardens on certain days.</p><p>Free Entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/wessex-sculptors-exhibition/thumb.jpg",
+      "cover": "images/events/wessex-sculptors-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/wessex-sculptors-exhibition/1.jpg",
+        "images/events/wessex-sculptors-exhibition/2.jpg",
+        "images/events/wessex-sculptors-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "farringdon-open-gardens-artists-trail",
+    "name": "Farringdon Open Gardens & Farringdon Artists Trail",
+    "venue": "Farringdon",
+    "location": {
+      "street": null,
+      "postcode": null,
+      "city": "Farringdon",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-21",
+      "startTime": "11:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Open gardens, artists trail, crafts, history, teas and plant sale.",
+    "details": "<p>Gardens event from 1.00 –5.00pm. Artists Trail 11.00 - 5.00pm.</p><p>Visit 6 gardens in a variety of sizes, styles and layouts, plus the village Community Garden. There will also be exhibitions of crafts and village history in the church. On the Artists Trail there will be a diverse selection of paintings, ceramics, prints and sculpture. Teas and also plant sale.</p><p>Free admission</p>",
+    "tags": [
+      "Walk",
+      "Exhibition",
+      "Free",
+      "Art",
+      "Garden",
+      "Outdoor",
+      "Community"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/farringdon-open-gardens-artists-trail/thumb.jpg",
+      "cover": "images/events/farringdon-open-gardens-artists-trail/cover.jpg",
+      "gallery": [
+        "images/events/farringdon-open-gardens-artists-trail/1.jpg",
+        "images/events/farringdon-open-gardens-artists-trail/2.jpg",
+        "images/events/farringdon-open-gardens-artists-trail/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free admission"
+    }
+  },
+  {
+    "id": "gatehouse-artists-exhibition-06-21",
+    "name": "The Gatehouse Studios Artists’ Exhibition and Workshops",
+    "venue": "The Gatehouse Studios and Garden",
+    "location": {
+      "street": "15 St. James Lane",
+      "postcode": "SO22 4NX",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-21",
+      "startTime": "11:00",
+      "endTime": "16:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Local artists exhibition in a unique garden setting.",
+    "details": "<p>Enjoy the work of 9 eclectic local artists displaying in this unique location and garden at the entrance to the cemetery. With Suna Imre, Eileen White, Iris Hill, Georgie Carrs, Barry Gower, Lisa Orlandi, Janet Price, Noel Perkins, and Tori McLean.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/gatehouse-artists-exhibition/thumb.jpg",
+      "cover": "images/events/gatehouse-artists-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/gatehouse-artists-exhibition/1.jpg",
+        "images/events/gatehouse-artists-exhibition/2.jpg",
+        "images/events/gatehouse-artists-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "festival-in-the-garden-06-21",
+    "name": "Festival in the Garden",
+    "venue": "The March Hare",
+    "location": {
+      "street": "Prior’s Dean Road",
+      "postcode": "SO22 6JN",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-21",
+      "startTime": "13:00",
+      "endTime": "01:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Community-led garden festival with stalls, BBQ, and live music.",
+    "details": "<p>Join us for a community-led day in this pub garden with a mix of local stalls including a face painter, locally made bread from Buriton Bakery, crafts stalls and plant stall, plus an all-day BBQ, bouncy castle and live music from Audio Pirates to round off the day.</p><p>Free entry</p>",
+    "tags": [
+      "Performance",
+      "Music",
+      "Free",
+      "Garden",
+      "Outdoor",
+      "Food & Drink",
+      "Market",
+      "Community",
+      "Family Friendly"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/festival-in-the-garden/thumb.jpg",
+      "cover": "images/events/festival-in-the-garden/cover.jpg",
+      "gallery": [
+        "images/events/festival-in-the-garden/1.jpg",
+        "images/events/festival-in-the-garden/2.jpg",
+        "images/events/festival-in-the-garden/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "dean-garnier-garden-meet-the-volunteers",
+    "name": "Dean Garnier Garden – meet the volunteers",
+    "venue": "Winchester Cathedral Inner Close",
+    "location": {
+      "street": "Winchester Cathedral Inner Close",
+      "postcode": "SO23 9LS",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-21",
+      "startTime": "14:00",
+      "endTime": "16:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Meet volunteers and learn about this historic Cathedral garden.",
+    "details": "<p>Chat to knowledgeable volunteers and learn more about this small historic garden tucked away in the Cathedral Inner Close.</p><p>Free entry</p>",
+    "tags": ["Talk", "Free", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/dean-garnier-garden-meet-the-volunteers/thumb.jpg",
+      "cover": "images/events/dean-garnier-garden-meet-the-volunteers/cover.jpg",
+      "gallery": [
+        "images/events/dean-garnier-garden-meet-the-volunteers/1.jpg",
+        "images/events/dean-garnier-garden-meet-the-volunteers/2.jpg",
+        "images/events/dean-garnier-garden-meet-the-volunteers/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "opera-in-the-garden",
+    "name": "Opera in the Garden",
+    "venue": "The Deane House Garden",
+    "location": {
+      "street": "Woodman Lane, Sparsholt",
+      "postcode": "SO21 2LR",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-21",
+      "startTime": "16:30",
+      "endTime": "20:00"
+    },
+    "organiser": {
+      "name": "Opera Anywhere",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A light-hearted evening of HMS Pinafore in the garden.",
+    "details": "<p>HMS Pinafore with Opera Anywhere.</p><p>Join us for a light-hearted evening with Opera Anywhere performing this popular Gilbert & Sullivan opera. Bring your friends, a picnic, tables and chairs and enjoy the longest day in this exceptional setting. There will be a small gift for all fathers!</p><p>Tickets £22.50 adults, £15 children. Group of 8: £160</p>",
+    "tags": [
+      "Performance",
+      "Music",
+      "Paid",
+      "Garden",
+      "Outdoor",
+      "Family Friendly"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/opera-in-the-garden/thumb.jpg",
+      "cover": "images/events/opera-in-the-garden/cover.jpg",
+      "gallery": [
+        "images/events/opera-in-the-garden/1.jpg",
+        "images/events/opera-in-the-garden/2.jpg",
+        "images/events/opera-in-the-garden/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 22.5,
+      "currency": "GBP",
+      "label": "Tickets £22.50 adults, £15 children, group of 8 £160"
+    }
+  },
+  {
+    "id": "contemporary-sculpture-trail-06-22",
+    "name": "Contemporary Sculpture Trail & Art Gallery Summer Show",
+    "venue": "Atherton Green Art Gallery & Garden",
+    "location": {
+      "street": "Upper Farringdon",
+      "postcode": "GU34 3EH",
+      "city": "Alton",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-22",
+      "endDate": "2026-06-22",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Contemporary art exhibition with outdoor sculpture trail.",
+    "details": "<p>An exhibition of contemporary art, including painting, sculpture and ceramics with an outdoor sculpture trail. Set in the house and gardens of a former Victorian rectory.</p><p>Free admission</p><p>www.athertongreen.art</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/contemporary-sculpture-trail/thumb.jpg",
+      "cover": "images/events/contemporary-sculpture-trail/cover.jpg",
+      "gallery": [
+        "images/events/contemporary-sculpture-trail/1.jpg",
+        "images/events/contemporary-sculpture-trail/2.jpg",
+        "images/events/contemporary-sculpture-trail/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free admission"
+    }
+  },
+  {
+    "id": "wessex-sculptors-exhibition-06-22",
+    "name": "Exhibition in the garden by The Wessex Sculptors",
+    "venue": "Quaker Meeting House Garden",
+    "location": {
+      "street": "Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-22",
+      "endDate": "2026-06-22",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "The Wessex Sculptors",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Enjoy the varied and skilled work of the Wessex Sculptors.",
+    "details": "<p>Enjoy the varied and skilled work of the Wessex Sculptors displayed in the little-known gardens of The Quaker Meeting House off Colebrook Street. 10 artists will be on display.</p><p>There will also be artists sketching and painting the gardens on certain days.</p><p>Free Entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/wessex-sculptors-exhibition/thumb.jpg",
+      "cover": "images/events/wessex-sculptors-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/wessex-sculptors-exhibition/1.jpg",
+        "images/events/wessex-sculptors-exhibition/2.jpg",
+        "images/events/wessex-sculptors-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "introduction-to-block-printing-workshop",
+    "name": "An Introduction to Block Printing Workshop",
+    "venue": "Dunley Manor",
+    "location": {
+      "street": "Dunley, Nr Whitchurch",
+      "postcode": "RG28 7PU",
+      "city": "Whitchurch",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-23",
+      "endDate": "2026-06-23",
+      "startTime": "10:00",
+      "endTime": "12:30"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Explore botanical block printing and design your own item.",
+    "details": "<p>Come and spend a morning exploring the joy of block printing especially if you love botanical subjects. You will get a chance to design an item of your choice: tea towel, cushion cover or tote bag. Coffee/tea and cake included.</p><p>Tickets £45 (limited to 10 people)</p>",
+    "tags": ["Workshop", "Paid", "Art", "Nature", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/introduction-to-block-printing-workshop/thumb.jpg",
+      "cover": "images/events/introduction-to-block-printing-workshop/cover.jpg",
+      "gallery": [
+        "images/events/introduction-to-block-printing-workshop/1.jpg",
+        "images/events/introduction-to-block-printing-workshop/2.jpg",
+        "images/events/introduction-to-block-printing-workshop/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 45,
+      "currency": "GBP",
+      "label": "Tickets £45"
+    }
+  },
+  {
+    "id": "contemporary-sculpture-trail-06-23",
+    "name": "Contemporary Sculpture Trail & Art Gallery Summer Show",
+    "venue": "Atherton Green Art Gallery & Garden",
+    "location": {
+      "street": "Upper Farringdon",
+      "postcode": "GU34 3EH",
+      "city": "Alton",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-23",
+      "endDate": "2026-06-23",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Contemporary art exhibition with outdoor sculpture trail.",
+    "details": "<p>An exhibition of contemporary art, including painting, sculpture and ceramics with an outdoor sculpture trail. Set in the house and gardens of a former Victorian rectory.</p><p>Free admission</p><p>www.athertongreen.art</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/contemporary-sculpture-trail/thumb.jpg",
+      "cover": "images/events/contemporary-sculpture-trail/cover.jpg",
+      "gallery": [
+        "images/events/contemporary-sculpture-trail/1.jpg",
+        "images/events/contemporary-sculpture-trail/2.jpg",
+        "images/events/contemporary-sculpture-trail/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free admission"
+    }
+  },
+  {
+    "id": "wessex-sculptors-exhibition-06-23",
+    "name": "Exhibition in the garden by The Wessex Sculptors",
+    "venue": "Quaker Meeting House Garden",
+    "location": {
+      "street": "Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-23",
+      "endDate": "2026-06-23",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "The Wessex Sculptors",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Enjoy the varied and skilled work of the Wessex Sculptors.",
+    "details": "<p>Enjoy the varied and skilled work of the Wessex Sculptors displayed in the little-known gardens of The Quaker Meeting House off Colebrook Street. 10 artists will be on display.</p><p>There will also be artists sketching and painting the gardens on certain days.</p><p>Free Entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/wessex-sculptors-exhibition/thumb.jpg",
+      "cover": "images/events/wessex-sculptors-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/wessex-sculptors-exhibition/1.jpg",
+        "images/events/wessex-sculptors-exhibition/2.jpg",
+        "images/events/wessex-sculptors-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "guided-flower-farm-tour-featherstone-flowers",
+    "name": "A Guided Flower Farm Tour with Featherstone Flowers",
+    "venue": "Tithe Barn",
+    "location": {
+      "street": "Berry Court Farm, Church Hill, Nether Wallop",
+      "postcode": "SO20 8EY",
+      "city": "Nether Wallop",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-23",
+      "endDate": "2026-06-23",
+      "startTime": "14:00",
+      "endTime": "16:30"
+    },
+    "organiser": {
+      "name": "Featherstone Flowers",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A guided tour of the flower farm with a small posy to take home.",
+    "details": "<p>A guided tour of the flower farm with the horticultural team with each guest receiving a small posy of Hampshire grown flowers to take home.</p><p>Tickets £35</p>",
+    "tags": ["Tour", "Paid", "Garden", "Outdoor", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/guided-flower-farm-tour-featherstone-flowers/thumb.jpg",
+      "cover": "images/events/guided-flower-farm-tour-featherstone-flowers/cover.jpg",
+      "gallery": [
+        "images/events/guided-flower-farm-tour-featherstone-flowers/1.jpg",
+        "images/events/guided-flower-farm-tour-featherstone-flowers/2.jpg",
+        "images/events/guided-flower-farm-tour-featherstone-flowers/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 35,
+      "currency": "GBP",
+      "label": "Tickets £35"
+    }
+  },
+  {
+    "id": "contemporary-sculpture-trail-06-24",
+    "name": "Contemporary Sculpture Trail & Art Gallery Summer Show",
+    "venue": "Atherton Green Art Gallery & Garden",
+    "location": {
+      "street": "Upper Farringdon",
+      "postcode": "GU34 3EH",
+      "city": "Alton",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-24",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Contemporary art exhibition with outdoor sculpture trail.",
+    "details": "<p>An exhibition of contemporary art, including painting, sculpture and ceramics with an outdoor sculpture trail. Set in the house and gardens of a former Victorian rectory.</p><p>Free admission</p><p>www.athertongreen.art</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/contemporary-sculpture-trail/thumb.jpg",
+      "cover": "images/events/contemporary-sculpture-trail/cover.jpg",
+      "gallery": [
+        "images/events/contemporary-sculpture-trail/1.jpg",
+        "images/events/contemporary-sculpture-trail/2.jpg",
+        "images/events/contemporary-sculpture-trail/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free admission"
+    }
+  },
+  {
+    "id": "wessex-sculptors-exhibition-06-24",
+    "name": "Exhibition in the garden by The Wessex Sculptors",
+    "venue": "Quaker Meeting House Garden",
+    "location": {
+      "street": "Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-24",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "The Wessex Sculptors",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Enjoy the varied and skilled work of the Wessex Sculptors.",
+    "details": "<p>Enjoy the varied and skilled work of the Wessex Sculptors displayed in the little-known gardens of The Quaker Meeting House off Colebrook Street. 10 artists will be on display.</p><p>There will also be artists sketching and painting the gardens on certain days.</p><p>Free Entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/wessex-sculptors-exhibition/thumb.jpg",
+      "cover": "images/events/wessex-sculptors-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/wessex-sculptors-exhibition/1.jpg",
+        "images/events/wessex-sculptors-exhibition/2.jpg",
+        "images/events/wessex-sculptors-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "musical-midsummer-soiree",
+    "name": "Musical Midsummer Soiree",
+    "venue": "The Deane House Garden",
+    "location": {
+      "street": "Woodman Lane, Sparsholt",
+      "postcode": "SO21 2LR",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-24",
+      "startTime": "18:30",
+      "endTime": "22:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "An evening garden soiree with jazz, strings and song.",
+    "details": "<p>Dress up, bring a party of friends and a picnic, and enjoy a relaxing evening in the beautiful and extensive gardens of The Deane House with music by B Natural Jazz, The Hyde String Quartet, Nancy Longland (soprano) and Sam Lester (piano). An event not to be missed!</p><p>Tickets £22.50</p>",
+    "tags": ["Performance", "Music", "Paid", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/musical-midsummer-soiree/thumb.jpg",
+      "cover": "images/events/musical-midsummer-soiree/cover.jpg",
+      "gallery": [
+        "images/events/musical-midsummer-soiree/1.jpg",
+        "images/events/musical-midsummer-soiree/2.jpg",
+        "images/events/musical-midsummer-soiree/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 22.5,
+      "currency": "GBP",
+      "label": "Tickets £22.50"
+    }
+  },
+  {
+    "id": "block-printing-workshop-evening",
+    "name": "An Introduction to Block Printing Workshop",
+    "venue": "Dunley Manor",
+    "location": {
+      "street": "Dunley, Nr Whitchurch",
+      "postcode": "RG28 7PU",
+      "city": "Whitchurch",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-25",
+      "startTime": "10:00",
+      "endTime": "12:30"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Evening block printing workshop with prosecco and canapés.",
+    "details": "<p>Come and spend an evening exploring the joy of block printing when you will get a chance to design an item of your choice: tea towel, cushion cover or tote bag. A glass of prosecco and canapés included.</p><p>Tickets £45 (limited to 10 people)</p>",
+    "tags": ["Workshop", "Paid", "Art", "Nature", "Indoor", "Food & Drink"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/block-printing-workshop-evening/thumb.jpg",
+      "cover": "images/events/block-printing-workshop-evening/cover.jpg",
+      "gallery": [
+        "images/events/block-printing-workshop-evening/1.jpg",
+        "images/events/block-printing-workshop-evening/2.jpg",
+        "images/events/block-printing-workshop-evening/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 45,
+      "currency": "GBP",
+      "label": "Tickets £45"
+    }
+  },
+  {
+    "id": "contemporary-sculpture-trail-06-25",
+    "name": "Contemporary Sculpture Trail & Art Gallery Summer Show",
+    "venue": "Atherton Green Art Gallery & Garden",
+    "location": {
+      "street": "Upper Farringdon",
+      "postcode": "GU34 3EH",
+      "city": "Alton",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-25",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Contemporary art exhibition with outdoor sculpture trail.",
+    "details": "<p>An exhibition of contemporary art, including painting, sculpture and ceramics with an outdoor sculpture trail. Set in the house and gardens of a former Victorian rectory.</p><p>Free admission</p><p>www.athertongreen.art</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/contemporary-sculpture-trail/thumb.jpg",
+      "cover": "images/events/contemporary-sculpture-trail/cover.jpg",
+      "gallery": [
+        "images/events/contemporary-sculpture-trail/1.jpg",
+        "images/events/contemporary-sculpture-trail/2.jpg",
+        "images/events/contemporary-sculpture-trail/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free admission"
+    }
+  },
+  {
+    "id": "wessex-sculptors-exhibition-06-25",
+    "name": "Exhibition in the garden by The Wessex Sculptors",
+    "venue": "Quaker Meeting House Garden",
+    "location": {
+      "street": "Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-25",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "The Wessex Sculptors",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Enjoy the varied and skilled work of the Wessex Sculptors.",
+    "details": "<p>Enjoy the varied and skilled work of the Wessex Sculptors displayed in the little-known gardens of The Quaker Meeting House off Colebrook Street. 10 artists will be on display.</p><p>There will also be artists sketching and painting the gardens on certain days.</p><p>Free Entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/wessex-sculptors-exhibition/thumb.jpg",
+      "cover": "images/events/wessex-sculptors-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/wessex-sculptors-exhibition/1.jpg",
+        "images/events/wessex-sculptors-exhibition/2.jpg",
+        "images/events/wessex-sculptors-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "winchesters-biggest-garden-tour-06-25",
+    "name": "Winchester’s Biggest Garden, St Giles Hill Park. Past, present and future",
+    "venue": "Abbey Gardens",
+    "location": {
+      "street": "off The Broadway",
+      "postcode": "SO23 9BE",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-25",
+      "startTime": "10:30",
+      "endTime": "12:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Discover the history and future of St Giles Hill Park.",
+    "details": "<p>A short walking tour to discover a deep history through to today’s green lungs - and what the future might hold - this tour reveals the stories behind the hill overlooking Winchester.</p><p>Sessions: 25 June 10.30am–12pm, 26 June 10.30am–12pm, 28 June 4pm–5.30pm.</p><p>Tickets £6 (includes light refreshments)</p>",
+    "tags": ["Walk", "Tour", "Talk", "Paid", "Garden", "Outdoor", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/winchesters-biggest-garden-tour/thumb.jpg",
+      "cover": "images/events/winchesters-biggest-garden-tour/cover.jpg",
+      "gallery": [
+        "images/events/winchesters-biggest-garden-tour/1.jpg",
+        "images/events/winchesters-biggest-garden-tour/2.jpg",
+        "images/events/winchesters-biggest-garden-tour/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 6,
+      "currency": "GBP",
+      "label": "Tickets £6"
+    }
+  },
+  {
+    "id": "evening-sculpture-trail-wine-tasting",
+    "name": "Evening Opening Contemporary Sculpture Trail, Art Gallery Summer Show & Wine Tasting",
+    "venue": "Atherton Green Art Gallery & Garden",
+    "location": {
+      "street": "Upper Farringdon",
+      "postcode": "GU34 3EH",
+      "city": "Alton",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-25",
+      "startTime": "18:00",
+      "endTime": "20:30"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Evening sculpture exhibition with wine tasting.",
+    "details": "<p>An exhibition of contemporary art, including painting, sculpture and ceramics with an outdoor sculpture trail. Set in the house and gardens of a former Victorian rectory.</p><p>Otium Wine Estate, Hampshire’s newest vineyard, will be doing an exclusive preview of their sparkling wines.</p><p>Free admission</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor", "Food & Drink"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/evening-sculpture-trail-wine-tasting/thumb.jpg",
+      "cover": "images/events/evening-sculpture-trail-wine-tasting/cover.jpg",
+      "gallery": [
+        "images/events/evening-sculpture-trail-wine-tasting/1.jpg",
+        "images/events/evening-sculpture-trail-wine-tasting/2.jpg",
+        "images/events/evening-sculpture-trail-wine-tasting/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free, booking required"
+    }
+  },
+  {
+    "id": "fire-feast-tichborne-arms",
+    "name": "Fire Feast at the Tichborne Arms",
+    "venue": "The Tichborne Arms",
+    "location": {
+      "street": "Tichborne, nr Alresford",
+      "postcode": "SO24 0NA",
+      "city": "Alresford",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-25",
+      "startTime": "19:00",
+      "endTime": null
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Outdoor fire-cooked feast with BBQ and shared dishes.",
+    "details": "<p>Fire Feasts are back at The Tichborne Arms. For one night only, we’ll be stepping outside and cooking entirely over fire.</p><p>Head Chef Tom will be firing up the Asado to serve a generous BBQ feast of beautifully cooked meats, alongside vibrant salads and warm flatbreads, all designed for sharing.</p><p>For tickets, please go to Festival web-site</p>",
+    "tags": ["Garden", "Outdoor", "Food & Drink", "Free"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/fire-feast-tichborne-arms/thumb.jpg",
+      "cover": "images/events/fire-feast-tichborne-arms/cover.jpg",
+      "gallery": [
+        "images/events/fire-feast-tichborne-arms/1.jpg",
+        "images/events/fire-feast-tichborne-arms/2.jpg",
+        "images/events/fire-feast-tichborne-arms/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry; tickets/booking via Garden Festival website"
+    }
+  },
+  {
+    "id": "contemporary-sculpture-trail-06-26",
+    "name": "Contemporary Sculpture Trail & Art Gallery Summer Show",
+    "venue": "Atherton Green Art Gallery & Garden",
+    "location": {
+      "street": "Upper Farringdon",
+      "postcode": "GU34 3EH",
+      "city": "Alton",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Contemporary art exhibition with outdoor sculpture trail.",
+    "details": "<p>An exhibition of contemporary art, including painting, sculpture and ceramics with an outdoor sculpture trail. Set in the house and gardens of a former Victorian rectory.</p><p>Free admission</p><p>www.athertongreen.art</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/contemporary-sculpture-trail/thumb.jpg",
+      "cover": "images/events/contemporary-sculpture-trail/cover.jpg",
+      "gallery": [
+        "images/events/contemporary-sculpture-trail/1.jpg",
+        "images/events/contemporary-sculpture-trail/2.jpg",
+        "images/events/contemporary-sculpture-trail/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free admission"
+    }
+  },
+  {
+    "id": "wessex-sculptors-exhibition-06-26",
+    "name": "Exhibition in the garden by The Wessex Sculptors",
+    "venue": "Quaker Meeting House Garden",
+    "location": {
+      "street": "Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "The Wessex Sculptors",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Enjoy the varied and skilled work of the Wessex Sculptors.",
+    "details": "<p>Enjoy the varied and skilled work of the Wessex Sculptors displayed in the little-known gardens of The Quaker Meeting House off Colebrook Street. 10 artists will be on display.</p><p>There will also be artists sketching and painting the gardens on certain days.</p><p>Free Entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/wessex-sculptors-exhibition/thumb.jpg",
+      "cover": "images/events/wessex-sculptors-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/wessex-sculptors-exhibition/1.jpg",
+        "images/events/wessex-sculptors-exhibition/2.jpg",
+        "images/events/wessex-sculptors-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "floral-bloom-gathering-painting-workshop",
+    "name": "Floral bloom gathering & painting workshop with Becky Clarke",
+    "venue": "Stem and Green Flower Farm",
+    "location": {
+      "street": "Down Farm Lane",
+      "postcode": "SO23 7LA",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "startTime": "10:00",
+      "endTime": "13:00"
+    },
+    "organiser": {
+      "name": "Becki Clark",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Pick blooms and paint them in watercolour and ink.",
+    "details": "<p>Author, artist and illustrator Becki Clark is joining us to lead this masterclass.</p><p>June is a perfect time to capture the delicate beauty of the farm. The workshop will begin with picking blooms from the flower field. Becki will then take you step by step through how she captures them in watercolour and ink. Tea and cake included.</p><p>Tickets £75</p><p>www.stemandgreen.co.uk</p>",
+    "tags": ["Workshop", "Paid", "Art", "Garden", "Outdoor", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/floral-bloom-gathering-painting-workshop/thumb.jpg",
+      "cover": "images/events/floral-bloom-gathering-painting-workshop/cover.jpg",
+      "gallery": [
+        "images/events/floral-bloom-gathering-painting-workshop/1.jpg",
+        "images/events/floral-bloom-gathering-painting-workshop/2.jpg",
+        "images/events/floral-bloom-gathering-painting-workshop/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 75,
+      "currency": "GBP",
+      "label": "Tickets £75"
+    }
+  },
+  {
+    "id": "winchesters-biggest-garden-tour-06-26",
+    "name": "Winchester’s Biggest Garden, St Giles Hill Park. Past, present and future",
+    "venue": "Abbey Gardens",
+    "location": {
+      "street": "off The Broadway",
+      "postcode": "SO23 9BE",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "startTime": "10:30",
+      "endTime": "12:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Discover the history and future of St Giles Hill Park.",
+    "details": "<p>A short walking tour to discover a deep history through to today’s green lungs - and what the future might hold - this tour reveals the stories behind the hill overlooking Winchester.</p><p>Sessions: 25 June 10.30am–12pm, 26 June 10.30am–12pm, 28 June 4pm–5.30pm.</p><p>Tickets £6 (includes light refreshments)</p>",
+    "tags": ["Walk", "Tour", "Talk", "Paid", "Garden", "Outdoor", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/winchesters-biggest-garden-tour/thumb.jpg",
+      "cover": "images/events/winchesters-biggest-garden-tour/cover.jpg",
+      "gallery": [
+        "images/events/winchesters-biggest-garden-tour/1.jpg",
+        "images/events/winchesters-biggest-garden-tour/2.jpg",
+        "images/events/winchesters-biggest-garden-tour/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 6,
+      "currency": "GBP",
+      "label": "Tickets £6"
+    }
+  },
+  {
+    "id": "art-in-the-garden-yard-studios-06-26",
+    "name": "Art In the Garden",
+    "venue": "The Yard Studios",
+    "location": {
+      "street": "4 Wharf Hill",
+      "postcode": "SO23 9NQ",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "startTime": "11:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Explore local artists working across multiple mediums.",
+    "details": "<p>A group of local artists tucked away in studios near Black Wharf Bridge where the Itchin Navigation Canal begins. They work in a wide range of medium including painting, sculpture, printmaking and drawing.</p><p>Refreshments available.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/art-in-the-garden-yard-studios/thumb.jpg",
+      "cover": "images/events/art-in-the-garden-yard-studios/cover.jpg",
+      "gallery": [
+        "images/events/art-in-the-garden-yard-studios/1.jpg",
+        "images/events/art-in-the-garden-yard-studios/2.jpg",
+        "images/events/art-in-the-garden-yard-studios/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "journey-through-clay",
+    "name": "Journey Through Clay - An experience",
+    "venue": "Snowdrop Studio",
+    "location": {
+      "street": "Compostela, Trinity Hill",
+      "postcode": "GU34 5LT",
+      "city": "Medstead",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "startTime": "14:00",
+      "endTime": "16:00"
+    },
+    "organiser": {
+      "name": "Lisa Stevenson",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A creative clay experience with poetry and demonstrations.",
+    "details": "<p>Join ceramist Lisa Stevenson for a special experience with reflections, poetry and demonstrations on the wheel and sculpture. Featuring Abigail McKern bringing poetry to life.</p><p>Sessions at 2–4pm or 6–8pm.</p><p>£15 including drinks and nibbles</p>",
+    "tags": ["Workshop", "Performance", "Paid", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/journey-through-clay/thumb.jpg",
+      "cover": "images/events/journey-through-clay/cover.jpg",
+      "gallery": [
+        "images/events/journey-through-clay/1.jpg",
+        "images/events/journey-through-clay/2.jpg",
+        "images/events/journey-through-clay/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 15,
+      "currency": "GBP",
+      "label": "£15 including drinks and nibbles"
+    }
+  },
+  {
+    "id": "medstead-station-garden-tours",
+    "name": "Medstead & Fours Marks Station Garden Tours",
+    "venue": "The Watercress Line",
+    "location": {
+      "street": "Station Approach, Medstead",
+      "postcode": "GU34 5HW",
+      "city": "Medstead",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "startTime": "15:00",
+      "endTime": null
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Tour the maintained station gardens with volunteer gardeners.",
+    "details": "<p>Join the enthusiastic and knowledgeable volunteer gardeners for tours of the meticulously maintained station gardens and learn about the fascinating history behind them. Refreshments available.</p><p>Tours at 3pm and 4.30pm.</p><p>Tickets free but please reserve a place. Numbers limited to 20 per tour.</p>",
+    "tags": ["Tour", "Free", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/medstead-station-garden-tours/thumb.jpg",
+      "cover": "images/events/medstead-station-garden-tours/cover.jpg",
+      "gallery": [
+        "images/events/medstead-station-garden-tours/1.jpg",
+        "images/events/medstead-station-garden-tours/2.jpg",
+        "images/events/medstead-station-garden-tours/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free, booking required"
+    }
+  },
+  {
+    "id": "walk-and-talk-dean-garnier",
+    "name": "Walk & Talk",
+    "venue": "Dean Garnier Garden",
+    "location": {
+      "street": "Winchester Cathedral Inner Close",
+      "postcode": "SO23 9LS",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "startTime": "15:00",
+      "endTime": "16:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A guided talk exploring the history and design of the garden.",
+    "details": "<p>Enjoy a talk about this small garden in the Cathedral Inner Close. Learn about the history of the Garden, its design features, artworks, and planting followed by refreshments and the chance to chat to volunteers.</p><p>Tickets £6 limited to 20 people</p>",
+    "tags": ["Walk", "Talk", "Paid", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/walk-and-talk-dean-garnier/thumb.jpg",
+      "cover": "images/events/walk-and-talk-dean-garnier/cover.jpg",
+      "gallery": [
+        "images/events/walk-and-talk-dean-garnier/1.jpg",
+        "images/events/walk-and-talk-dean-garnier/2.jpg",
+        "images/events/walk-and-talk-dean-garnier/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 6,
+      "currency": "GBP",
+      "label": "Tickets £6"
+    }
+  },
+  {
+    "id": "medstead-gardens-art-experience",
+    "name": "Medstead Gardens & Art Experience",
+    "venue": "Church House Garden and Snowdrop Studios",
+    "location": {
+      "street": "Trinity Hill",
+      "postcode": "GU34 5LT",
+      "city": "Medstead",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-26",
+      "endDate": "2026-06-26",
+      "startTime": null,
+      "endTime": null
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Explore multiple gardens, art, music, and exhibitions.",
+    "details": "<p>Enjoy three very different, beautiful Hampshire gardens, Snowdrop Studio & Garden, Church House Gardens and the Medstead and Fours Marks Station Gardens.</p><p>Includes art, music, wine tasting, and garden experiences across multiple time slots.</p>",
+    "tags": [
+      "Exhibition",
+      "Music",
+      "Free",
+      "Paid",
+      "Art",
+      "Garden",
+      "Outdoor",
+      "Food & Drink"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/medstead-gardens-art-experience/thumb.jpg",
+      "cover": "images/events/medstead-gardens-art-experience/cover.jpg",
+      "gallery": [
+        "images/events/medstead-gardens-art-experience/1.jpg",
+        "images/events/medstead-gardens-art-experience/2.jpg",
+        "images/events/medstead-gardens-art-experience/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "mixed",
+      "amount": null,
+      "currency": "GBP",
+      "label": "Mixed: entry by donation / £12 / £15 / free tours depending on session"
+    }
+  },
+  {
+    "id": "floral-extravaganza-in-art",
+    "name": "A Floral Extravaganza in Art",
+    "venue": "Jewry Street Studios",
+    "location": {
+      "street": "5a Jewry Street",
+      "postcode": "SO23 8RZ",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-27",
+      "endDate": "2026-06-27",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Four artists exhibiting work influenced by flowers and gardens.",
+    "details": "<p>Come and view the new art studios in Jewry Street where 4 acclaimed artists will be exhibiting and selling their work influenced by flowers, gardens and landscapes.</p><p>The artists are Natalie Semlyen, Rebecca Galbraith, Chris Perry, and Wendy Couchman.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Indoor", "Garden"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/floral-extravaganza-in-art/thumb.jpg",
+      "cover": "images/events/floral-extravaganza-in-art/cover.jpg",
+      "gallery": [
+        "images/events/floral-extravaganza-in-art/1.jpg",
+        "images/events/floral-extravaganza-in-art/2.jpg",
+        "images/events/floral-extravaganza-in-art/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "contemporary-sculpture-trail-06-27",
+    "name": "Contemporary Sculpture Trail & Art Gallery Summer Show",
+    "venue": "Atherton Green Art Gallery & Garden",
+    "location": {
+      "street": "Upper Farringdon",
+      "postcode": "GU34 3EH",
+      "city": "Alton",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-27",
+      "endDate": "2026-06-27",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Contemporary art exhibition with outdoor sculpture trail.",
+    "details": "<p>An exhibition of contemporary art, including painting, sculpture and ceramics with an outdoor sculpture trail. Set in the house and gardens of a former Victorian rectory.</p><p>Free admission</p><p>www.athertongreen.art</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/contemporary-sculpture-trail/thumb.jpg",
+      "cover": "images/events/contemporary-sculpture-trail/cover.jpg",
+      "gallery": [
+        "images/events/contemporary-sculpture-trail/1.jpg",
+        "images/events/contemporary-sculpture-trail/2.jpg",
+        "images/events/contemporary-sculpture-trail/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free admission"
+    }
+  },
+  {
+    "id": "wessex-sculptors-exhibition-06-27",
+    "name": "Exhibition in the garden by The Wessex Sculptors",
+    "venue": "Quaker Meeting House Garden",
+    "location": {
+      "street": "Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-27",
+      "endDate": "2026-06-27",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "The Wessex Sculptors",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Enjoy the varied and skilled work of the Wessex Sculptors.",
+    "details": "<p>Enjoy the varied and skilled work of the Wessex Sculptors displayed in the little-known gardens of The Quaker Meeting House off Colebrook Street. 10 artists will be on display.</p><p>There will also be artists sketching and painting the gardens on certain days.</p><p>Free Entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/wessex-sculptors-exhibition/thumb.jpg",
+      "cover": "images/events/wessex-sculptors-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/wessex-sculptors-exhibition/1.jpg",
+        "images/events/wessex-sculptors-exhibition/2.jpg",
+        "images/events/wessex-sculptors-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "willow-weaving-louise-brown",
+    "name": "Willow Weaving with Louise Brown",
+    "venue": "Stem & Green Flower Farm",
+    "location": {
+      "street": "Down Farm Lane",
+      "postcode": "SO23 7LA",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-27",
+      "endDate": "2026-06-27",
+      "startTime": "10:00",
+      "endTime": "13:00"
+    },
+    "organiser": {
+      "name": "Louise Brown",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Learn willow weaving and make a plant support.",
+    "details": "<p>Basket maker and willow weaving expert Louise Brown will lead this masterclass.</p><p>Learn the basics from manipulating and twisting the willow to essential techniques. Together you'll make a beautiful willow plant support for flowers and plants. Or, simply statuesque shape for your border even without plants.</p><p>Tickets £85</p>",
+    "tags": ["Workshop", "Paid", "Garden", "Outdoor", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/willow-weaving-louise-brown/thumb.jpg",
+      "cover": "images/events/willow-weaving-louise-brown/cover.jpg",
+      "gallery": [
+        "images/events/willow-weaving-louise-brown/1.jpg",
+        "images/events/willow-weaving-louise-brown/2.jpg",
+        "images/events/willow-weaving-louise-brown/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 85,
+      "currency": "GBP",
+      "label": "Tickets £85"
+    }
+  },
+  {
+    "id": "experimental-photography-workshop-chemi-lumens",
+    "name": "Experimental Photography Workshop - Chemi-Lumens",
+    "venue": "The Gatehouse Studios",
+    "location": {
+      "street": "15 St James’ Lane",
+      "postcode": "SO22 9NX",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-27",
+      "endDate": "2026-06-27",
+      "startTime": "10:30",
+      "endTime": "14:30"
+    },
+    "organiser": {
+      "name": "Eileen White",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Create plant-based photography chemistry from the garden.",
+    "details": "<p>In this workshop, you will be provided with all the necessary materials to create your own chemistry from plants in The Gatehouse’s garden. The joy of using a handmade alternative to toxic commercial chemistry means the local ecology of the site is embedded into the work, as well as being far more sustainable and caring.</p><p>For full details and information on Chemi-Lumens go to: www.garden-festival.co.uk or view on our App.</p><p>Workshop £25</p>",
+    "tags": ["Workshop", "Paid", "Art", "Garden", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/experimental-photography-workshop-chemi-lumens/thumb.jpg",
+      "cover": "images/events/experimental-photography-workshop-chemi-lumens/cover.jpg",
+      "gallery": [
+        "images/events/experimental-photography-workshop-chemi-lumens/1.jpg",
+        "images/events/experimental-photography-workshop-chemi-lumens/2.jpg",
+        "images/events/experimental-photography-workshop-chemi-lumens/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 25,
+      "currency": "GBP",
+      "label": "Workshop £25"
+    }
+  },
+  {
+    "id": "art-in-the-garden-yard-studios-06-27",
+    "name": "Art In the Garden",
+    "venue": "The Yard Studios",
+    "location": {
+      "street": "4 Wharf Hill",
+      "postcode": "SO23 9NQ",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-27",
+      "endDate": "2026-06-27",
+      "startTime": "11:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Explore local artists working across multiple mediums.",
+    "details": "<p>A group of local artists tucked away in studios near Black Wharf Bridge where the Itchin Navigation Canal begins. They work in a wide range of medium including painting, sculpture, printmaking and drawing.</p><p>Refreshments available.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/art-in-the-garden-yard-studios/thumb.jpg",
+      "cover": "images/events/art-in-the-garden-yard-studios/cover.jpg",
+      "gallery": [
+        "images/events/art-in-the-garden-yard-studios/1.jpg",
+        "images/events/art-in-the-garden-yard-studios/2.jpg",
+        "images/events/art-in-the-garden-yard-studios/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "dean-garnier-garden-meet-the-volunteers-27",
+    "name": "Dean Garnier Garden – meet the volunteers",
+    "venue": "Winchester Cathedral Inner Close",
+    "location": {
+      "street": "Winchester Cathedral Inner Close",
+      "postcode": "SO23 9LS",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-27",
+      "endDate": "2026-06-27",
+      "startTime": "14:00",
+      "endTime": "16:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Meet volunteers and learn about this historic Cathedral garden.",
+    "details": "<p>Chat to knowledgeable volunteers and learn more about this small historic garden tucked away in the Cathedral Inner Close.</p><p>Free entry</p>",
+    "tags": ["Talk", "Free", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/dean-garnier-garden-meet-the-volunteers-27/thumb.jpg",
+      "cover": "images/events/dean-garnier-garden-meet-the-volunteers-27/cover.jpg",
+      "gallery": [
+        "images/events/dean-garnier-garden-meet-the-volunteers-27/1.jpg",
+        "images/events/dean-garnier-garden-meet-the-volunteers-27/2.jpg",
+        "images/events/dean-garnier-garden-meet-the-volunteers-27/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "contemporary-sculpture-trail-06-28",
+    "name": "Contemporary Sculpture Trail & Art Gallery Summer Show",
+    "venue": "Atherton Green Art Gallery & Garden",
+    "location": {
+      "street": "Upper Farringdon",
+      "postcode": "GU34 3EH",
+      "city": "Alton",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-28",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Contemporary art exhibition with outdoor sculpture trail.",
+    "details": "<p>An exhibition of contemporary art, including painting, sculpture and ceramics with an outdoor sculpture trail. Set in the house and gardens of a former Victorian rectory.</p><p>Free admission</p><p>www.athertongreen.art</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/contemporary-sculpture-trail/thumb.jpg",
+      "cover": "images/events/contemporary-sculpture-trail/cover.jpg",
+      "gallery": [
+        "images/events/contemporary-sculpture-trail/1.jpg",
+        "images/events/contemporary-sculpture-trail/2.jpg",
+        "images/events/contemporary-sculpture-trail/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free admission"
+    }
+  },
+  {
+    "id": "wessex-sculptors-exhibition-06-28",
+    "name": "Exhibition in the garden by The Wessex Sculptors",
+    "venue": "Quaker Meeting House Garden",
+    "location": {
+      "street": "Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-28",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "The Wessex Sculptors",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Enjoy the varied and skilled work of the Wessex Sculptors.",
+    "details": "<p>Enjoy the varied and skilled work of the Wessex Sculptors displayed in the little-known gardens of The Quaker Meeting House off Colebrook Street. 10 artists will be on display.</p><p>There will also be artists sketching and painting the gardens on certain days.</p><p>Free Entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Outdoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/wessex-sculptors-exhibition/thumb.jpg",
+      "cover": "images/events/wessex-sculptors-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/wessex-sculptors-exhibition/1.jpg",
+        "images/events/wessex-sculptors-exhibition/2.jpg",
+        "images/events/wessex-sculptors-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "art-in-the-garden-yard-studios-06-28",
+    "name": "Art In the Garden",
+    "venue": "The Yard Studios",
+    "location": {
+      "street": "4 Wharf Hill",
+      "postcode": "SO23 9NQ",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-28",
+      "startTime": "11:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Explore local artists working across multiple mediums.",
+    "details": "<p>A group of local artists tucked away in studios near Black Wharf Bridge where the Itchin Navigation Canal begins. They work in a wide range of medium including painting, sculpture, printmaking and drawing.</p><p>Refreshments available.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/art-in-the-garden-yard-studios/thumb.jpg",
+      "cover": "images/events/art-in-the-garden-yard-studios/cover.jpg",
+      "gallery": [
+        "images/events/art-in-the-garden-yard-studios/1.jpg",
+        "images/events/art-in-the-garden-yard-studios/2.jpg",
+        "images/events/art-in-the-garden-yard-studios/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "the-elegant-garden-affair",
+    "name": "The Elegant Garden Affair",
+    "venue": "Winchester Royal Hotel",
+    "location": {
+      "street": "St Peter St",
+      "postcode": "SO23 8BS",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-28",
+      "startTime": "13:30",
+      "endTime": "16:30"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "An elegant garden afternoon with wine, music, fashion and tea.",
+    "details": "<p>Experience an afternoon of refined beauty and relaxed sophistication in the delightful walled garden of the hotel. Enjoy a glass of sparkling wine on arrival, live music creating a gentle, uplifting atmosphere, a stylish and inspiring fashion show, an engaging talk on garden design by DP Garden Design, followed by a beautifully presented afternoon tea, served at elegantly dressed tables with crisp linens, surrounded by the charm of the garden in full bloom.</p><p>Tickets £35</p>",
+    "tags": [
+      "Talk",
+      "Performance",
+      "Music",
+      "Paid",
+      "Garden",
+      "Outdoor",
+      "Food & Drink"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/the-elegant-garden-affair/thumb.jpg",
+      "cover": "images/events/the-elegant-garden-affair/cover.jpg",
+      "gallery": [
+        "images/events/the-elegant-garden-affair/1.jpg",
+        "images/events/the-elegant-garden-affair/2.jpg",
+        "images/events/the-elegant-garden-affair/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 35,
+      "currency": "GBP",
+      "label": "Tickets £35"
+    }
+  },
+  {
+    "id": "in-an-english-country-garden",
+    "name": "In an English Country Garden",
+    "venue": "The Deane House Garden",
+    "location": {
+      "street": "Woodman Lane, Sparsholt",
+      "postcode": "SO21 2LR",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-28",
+      "startTime": "15:00",
+      "endTime": "19:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "An afternoon of performances, art, music and garden experiences.",
+    "details": "<p>Come and admire the beautiful and extensive gardens of The Deane House while enjoying an afternoon of performances dotted around the various parts of the estate. With poetry, readings, music, art displays, ceramics workshops, well-being sessions, herbal medicine, wine tastings, drop-in painting classes – every part of the various gardens will be filled with something delightful.</p><p>Or simply bring your friends, a picnic, your tables and chairs and savour this glorious setting with magnificent views over the Hampshire countryside.</p><p>With Abigail McKern, Sian Radinger, Lisa Stevenson, Charlie, Sonya Vine, Nicola Baldwin, Coralie, Darren Black, Sarah Greenaway and Lisa Orlandi.</p><p>Tickets £15</p>",
+    "tags": [
+      "Performance",
+      "Music",
+      "Paid",
+      "Art",
+      "Garden",
+      "Outdoor",
+      "Wellbeing",
+      "Food & Drink"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/in-an-english-country-garden/thumb.jpg",
+      "cover": "images/events/in-an-english-country-garden/cover.jpg",
+      "gallery": [
+        "images/events/in-an-english-country-garden/1.jpg",
+        "images/events/in-an-english-country-garden/2.jpg",
+        "images/events/in-an-english-country-garden/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 15,
+      "currency": "GBP",
+      "label": "Tickets £15"
+    }
+  },
+  {
+    "id": "winchesters-biggest-garden-tour-06-28",
+    "name": "Winchester’s Biggest Garden, St Giles Hill Park. Past, present and future",
+    "venue": "Abbey Gardens",
+    "location": {
+      "street": "off The Broadway",
+      "postcode": "SO23 9BE",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-28",
+      "startTime": "16:00",
+      "endTime": "17:30"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Discover the history and future of St Giles Hill Park.",
+    "details": "<p>A short walking tour to discover a deep history through to today’s green lungs - and what the future might hold - this tour reveals the stories behind the hill overlooking Winchester.</p><p>Sessions: 25 June 10.30am–12pm, 26 June 10.30am–12pm, 28 June 4pm–5.30pm.</p><p>Tickets £6 (includes light refreshments)</p>",
+    "tags": ["Walk", "Tour", "Talk", "Paid", "Garden", "Outdoor", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/winchesters-biggest-garden-tour/thumb.jpg",
+      "cover": "images/events/winchesters-biggest-garden-tour/cover.jpg",
+      "gallery": [
+        "images/events/winchesters-biggest-garden-tour/1.jpg",
+        "images/events/winchesters-biggest-garden-tour/2.jpg",
+        "images/events/winchesters-biggest-garden-tour/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 6,
+      "currency": "GBP",
+      "label": "Tickets £6"
+    }
+  },
+  {
+    "id": "gardens-landscapes-horticulture-art-exhibition-06-29",
+    "name": "Gardens, Landscapes & Horticulture in Art Exhibition",
+    "venue": "Milner Hall",
+    "location": {
+      "street": "St Peter’s Church, Jewry Street",
+      "postcode": "SO23 8RY",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-29",
+      "endDate": "2026-06-29",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A city centre exhibition of local artists and glass makers.",
+    "details": "<p>Come and admire the work of 16 talented local artists and glass makers displayed in this lovely, little-known city centre converted chapel set in pleasant gardens.</p><p>The artists include Emma Lowres, Julie Hepenstal, Jean Wheeler, Kirsten Shaw, Abigail McKern, Sue Watson, Melanie Bliss, Julie McRae, Pradeepa David, Pat Clarke, Jean Bassington, Katy McIntyre Brown, Liz Cox, Andrea Findlay, Sheila Topley, and Nadine Collingwood. All work on display will be for sale. Access via Jewry Street or St. Peter’s Street.</p><p>10am - 5pm with Preview Evening from 6 - 8pm on 29th June.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/gardens-landscapes-horticulture-art-exhibition/thumb.jpg",
+      "cover": "images/events/gardens-landscapes-horticulture-art-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/gardens-landscapes-horticulture-art-exhibition/1.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/2.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "guided-pick-your-own-flowers-featherstone",
+    "name": "A Guided Pick Your Own Flowers experience with Featherstone Flowers",
+    "venue": "Tithe Barn",
+    "location": {
+      "street": "Berry Court Farm, Church Hill, Nether Wallop",
+      "postcode": "SO20 8EY",
+      "city": "Nether Wallop",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-29",
+      "endDate": "2026-06-29",
+      "startTime": "14:00",
+      "endTime": "16:30"
+    },
+    "organiser": {
+      "name": "Featherstone Flowers",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A guided flower field tour with harvesting advice.",
+    "details": "<p>A group guided tour of the flower field led by a Featherstone’s team member showing how to best harvest your flowers for maximum vase life together with information on how flowers are grown at the farm.</p><p>Tickets £35</p>",
+    "tags": ["Tour", "Paid", "Garden", "Outdoor", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/guided-pick-your-own-flowers-featherstone/thumb.jpg",
+      "cover": "images/events/guided-pick-your-own-flowers-featherstone/cover.jpg",
+      "gallery": [
+        "images/events/guided-pick-your-own-flowers-featherstone/1.jpg",
+        "images/events/guided-pick-your-own-flowers-featherstone/2.jpg",
+        "images/events/guided-pick-your-own-flowers-featherstone/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 35,
+      "currency": "GBP",
+      "label": "Tickets £35"
+    }
+  },
+  {
+    "id": "gardens-landscapes-horticulture-art-exhibition-06-30",
+    "name": "Gardens, Landscapes & Horticulture in Art Exhibition",
+    "venue": "Milner Hall",
+    "location": {
+      "street": "St Peter’s Church, Jewry Street",
+      "postcode": "SO23 8RY",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-06-30",
+      "endDate": "2026-06-30",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A city centre exhibition of local artists and glass makers.",
+    "details": "<p>Come and admire the work of 16 talented local artists and glass makers displayed in this lovely, little-known city centre converted chapel set in pleasant gardens.</p><p>The artists include Emma Lowres, Julie Hepenstal, Jean Wheeler, Kirsten Shaw, Abigail McKern, Sue Watson, Melanie Bliss, Julie McRae, Pradeepa David, Pat Clarke, Jean Bassington, Katy McIntyre Brown, Liz Cox, Andrea Findlay, Sheila Topley, and Nadine Collingwood. All work on display will be for sale. Access via Jewry Street or St. Peter’s Street.</p><p>10am - 5pm with Preview Evening from 6 - 8pm on 29th June.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/gardens-landscapes-horticulture-art-exhibition/thumb.jpg",
+      "cover": "images/events/gardens-landscapes-horticulture-art-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/gardens-landscapes-horticulture-art-exhibition/1.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/2.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "flower-field-pick-arrange-journal-07-01",
+    "name": "Come to the Flower Field: Pick, Arrange and Journal",
+    "venue": "Lower Norton Flower Farm",
+    "location": {
+      "street": "Norton, Sutton Scotney",
+      "postcode": "SO21 3NE",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-01",
+      "startTime": "10:00",
+      "endTime": "12:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Pick flowers, arrange them, and explore journalling techniques.",
+    "details": "<p>Spend a relaxed morning in the flower field at Lower Norton Flower Farm. Pick a jam jar full of seasonal British grown flowers, learn how to cut and arrange them, then use your blooms as inspiration for simple journalling techniques.</p><p>No artistic experience is needed, just come and enjoy flowers, creativity and a little time in nature.</p><p>Sessions on 1st July and 3rd July.</p><p>Tickets £49</p>",
+    "tags": ["Workshop", "Paid", "Garden", "Outdoor", "Wellbeing", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/flower-field-pick-arrange-journal/thumb.jpg",
+      "cover": "images/events/flower-field-pick-arrange-journal/cover.jpg",
+      "gallery": [
+        "images/events/flower-field-pick-arrange-journal/1.jpg",
+        "images/events/flower-field-pick-arrange-journal/2.jpg",
+        "images/events/flower-field-pick-arrange-journal/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 49,
+      "currency": "GBP",
+      "label": "Tickets £49"
+    }
+  },
+  {
+    "id": "gardens-landscapes-horticulture-art-exhibition-07-01",
+    "name": "Gardens, Landscapes & Horticulture in Art Exhibition",
+    "venue": "Milner Hall",
+    "location": {
+      "street": "St Peter’s Church, Jewry Street",
+      "postcode": "SO23 8RY",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-01",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A city centre exhibition of local artists and glass makers.",
+    "details": "<p>Come and admire the work of 16 talented local artists and glass makers displayed in this lovely, little-known city centre converted chapel set in pleasant gardens.</p><p>The artists include Emma Lowres, Julie Hepenstal, Jean Wheeler, Kirsten Shaw, Abigail McKern, Sue Watson, Melanie Bliss, Julie McRae, Pradeepa David, Pat Clarke, Jean Bassington, Katy McIntyre Brown, Liz Cox, Andrea Findlay, Sheila Topley, and Nadine Collingwood. All work on display will be for sale. Access via Jewry Street or St. Peter’s Street.</p><p>10am - 5pm with Preview Evening from 6 - 8pm on 29th June.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/gardens-landscapes-horticulture-art-exhibition/thumb.jpg",
+      "cover": "images/events/gardens-landscapes-horticulture-art-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/gardens-landscapes-horticulture-art-exhibition/1.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/2.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "gardens-landscapes-horticulture-art-exhibition-07-02",
+    "name": "Gardens, Landscapes & Horticulture in Art Exhibition",
+    "venue": "Milner Hall",
+    "location": {
+      "street": "St Peter’s Church, Jewry Street",
+      "postcode": "SO23 8RY",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-02",
+      "endDate": "2026-07-02",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A city centre exhibition of local artists and glass makers.",
+    "details": "<p>Come and admire the work of 16 talented local artists and glass makers displayed in this lovely, little-known city centre converted chapel set in pleasant gardens.</p><p>The artists include Emma Lowres, Julie Hepenstal, Jean Wheeler, Kirsten Shaw, Abigail McKern, Sue Watson, Melanie Bliss, Julie McRae, Pradeepa David, Pat Clarke, Jean Bassington, Katy McIntyre Brown, Liz Cox, Andrea Findlay, Sheila Topley, and Nadine Collingwood. All work on display will be for sale. Access via Jewry Street or St. Peter’s Street.</p><p>10am - 5pm with Preview Evening from 6 - 8pm on 29th June.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/gardens-landscapes-horticulture-art-exhibition/thumb.jpg",
+      "cover": "images/events/gardens-landscapes-horticulture-art-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/gardens-landscapes-horticulture-art-exhibition/1.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/2.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "flower-field-pick-arrange-journal-07-03",
+    "name": "Come to the Flower Field: Pick, Arrange and Journal",
+    "venue": "Lower Norton Flower Farm",
+    "location": {
+      "street": "Norton, Sutton Scotney",
+      "postcode": "SO21 3NE",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-03",
+      "endDate": "2026-07-03",
+      "startTime": "10:00",
+      "endTime": "12:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Pick flowers, arrange them, and explore journalling techniques.",
+    "details": "<p>Spend a relaxed morning in the flower field at Lower Norton Flower Farm. Pick a jam jar full of seasonal British grown flowers, learn how to cut and arrange them, then use your blooms as inspiration for simple journalling techniques.</p><p>No artistic experience is needed, just come and enjoy flowers, creativity and a little time in nature.</p><p>Sessions on 1st July and 3rd July.</p><p>Tickets £49</p>",
+    "tags": ["Workshop", "Paid", "Garden", "Outdoor", "Wellbeing", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/flower-field-pick-arrange-journal/thumb.jpg",
+      "cover": "images/events/flower-field-pick-arrange-journal/cover.jpg",
+      "gallery": [
+        "images/events/flower-field-pick-arrange-journal/1.jpg",
+        "images/events/flower-field-pick-arrange-journal/2.jpg",
+        "images/events/flower-field-pick-arrange-journal/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 49,
+      "currency": "GBP",
+      "label": "Tickets £49"
+    }
+  },
+  {
+    "id": "gardens-landscapes-horticulture-art-exhibition-07-03",
+    "name": "Gardens, Landscapes & Horticulture in Art Exhibition",
+    "venue": "Milner Hall",
+    "location": {
+      "street": "St Peter’s Church, Jewry Street",
+      "postcode": "SO23 8RY",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-03",
+      "endDate": "2026-07-03",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A city centre exhibition of local artists and glass makers.",
+    "details": "<p>Come and admire the work of 16 talented local artists and glass makers displayed in this lovely, little-known city centre converted chapel set in pleasant gardens.</p><p>The artists include Emma Lowres, Julie Hepenstal, Jean Wheeler, Kirsten Shaw, Abigail McKern, Sue Watson, Melanie Bliss, Julie McRae, Pradeepa David, Pat Clarke, Jean Bassington, Katy McIntyre Brown, Liz Cox, Andrea Findlay, Sheila Topley, and Nadine Collingwood. All work on display will be for sale. Access via Jewry Street or St. Peter’s Street.</p><p>10am - 5pm with Preview Evening from 6 - 8pm on 29th June.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/gardens-landscapes-horticulture-art-exhibition/thumb.jpg",
+      "cover": "images/events/gardens-landscapes-horticulture-art-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/gardens-landscapes-horticulture-art-exhibition/1.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/2.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "market-garden-dinner",
+    "name": "The Market Garden Dinner",
+    "venue": "Hampshire Pantry",
+    "location": {
+      "street": "Badger Farm Road",
+      "postcode": "SO23 9RZ",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-03",
+      "endDate": "2026-07-03",
+      "startTime": "18:30",
+      "endTime": null
+    },
+    "organiser": {
+      "name": "Hampshire Pantry",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A long-table dinner in a working market garden.",
+    "details": "<p>Come and enjoy a delicious supper sitting at long tables in the middle of a market garden which has produced the vegetables on your plate.</p><p>With magnificent views and amazing food and drinks, this is an exciting, new, fabulous community event.</p><p>Tickets £50</p>",
+    "tags": ["Paid", "Garden", "Outdoor", "Food & Drink", "Community"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/market-garden-dinner/thumb.jpg",
+      "cover": "images/events/market-garden-dinner/cover.jpg",
+      "gallery": [
+        "images/events/market-garden-dinner/1.jpg",
+        "images/events/market-garden-dinner/2.jpg",
+        "images/events/market-garden-dinner/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 50,
+      "currency": "GBP",
+      "label": "Tickets £50"
+    }
+  },
+  {
+    "id": "community-allotment-open-day",
+    "name": "Community Allotment Gardening Open Day",
+    "venue": "Edington Road Allotments",
+    "location": {
+      "street": "Edington Road",
+      "postcode": "SO23 7AF",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-04",
+      "startTime": "10:00",
+      "endTime": "14:00"
+    },
+    "organiser": {
+      "name": "Incredible Edible Winchester",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Tour allotments, meet volunteers and learn gardening skills.",
+    "details": "<p>Tour the allotments with volunteers, ask your allotment questions, observe the work in progress and even give a helping hand if desired.</p><p>There will also be a seed identification activity.</p><p>Free entry</p>",
+    "tags": [
+      "Tour",
+      "Talk",
+      "Free",
+      "Garden",
+      "Outdoor",
+      "Community",
+      "Nature"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/community-allotment-open-day/thumb.jpg",
+      "cover": "images/events/community-allotment-open-day/cover.jpg",
+      "gallery": [
+        "images/events/community-allotment-open-day/1.jpg",
+        "images/events/community-allotment-open-day/2.jpg",
+        "images/events/community-allotment-open-day/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "gardens-landscapes-horticulture-art-exhibition-07-04",
+    "name": "Gardens, Landscapes & Horticulture in Art Exhibition",
+    "venue": "Milner Hall",
+    "location": {
+      "street": "St Peter’s Church, Jewry Street",
+      "postcode": "SO23 8RY",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-04",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A city centre exhibition of local artists and glass makers.",
+    "details": "<p>Come and admire the work of 16 talented local artists and glass makers displayed in this lovely, little-known city centre converted chapel set in pleasant gardens.</p><p>The artists include Emma Lowres, Julie Hepenstal, Jean Wheeler, Kirsten Shaw, Abigail McKern, Sue Watson, Melanie Bliss, Julie McRae, Pradeepa David, Pat Clarke, Jean Bassington, Katy McIntyre Brown, Liz Cox, Andrea Findlay, Sheila Topley, and Nadine Collingwood. All work on display will be for sale. Access via Jewry Street or St. Peter’s Street.</p><p>10am - 5pm with Preview Evening from 6 - 8pm on 29th June.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/gardens-landscapes-horticulture-art-exhibition/thumb.jpg",
+      "cover": "images/events/gardens-landscapes-horticulture-art-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/gardens-landscapes-horticulture-art-exhibition/1.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/2.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "summer-hand-tied-bouquet-workshop",
+    "name": "Summer Hand Tied Bouquet Workshop",
+    "venue": "Stem & Green Flower Farm",
+    "location": {
+      "street": "Down Farm Lane",
+      "postcode": "SO23 7LA",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-04",
+      "startTime": "10:00",
+      "endTime": "13:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Learn to create a hand-tied bouquet from fresh garden flowers.",
+    "details": "<p>Learn how to pick and arrange a beautiful, fresh bouquet of garden flowers.</p><p>After picking blooms and enjoying tea and cake, you will be shown how to make a showstopping hand-tied bouquet to take home.</p><p>Tickets £65</p>",
+    "tags": ["Workshop", "Paid", "Garden", "Outdoor", "Nature"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/summer-hand-tied-bouquet-workshop/thumb.jpg",
+      "cover": "images/events/summer-hand-tied-bouquet-workshop/cover.jpg",
+      "gallery": [
+        "images/events/summer-hand-tied-bouquet-workshop/1.jpg",
+        "images/events/summer-hand-tied-bouquet-workshop/2.jpg",
+        "images/events/summer-hand-tied-bouquet-workshop/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 65,
+      "currency": "GBP",
+      "label": "Tickets £65"
+    }
+  },
+  {
+    "id": "hampshire-market-garden-summer-gala",
+    "name": "Hampshire Market Garden Summer Gala",
+    "venue": "The Lockerley Estate",
+    "location": {
+      "street": "Manor Farm, East Tytherley",
+      "postcode": null,
+      "city": "Lockerley",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-04",
+      "startTime": "18:00",
+      "endTime": null
+    },
+    "organiser": {
+      "name": "Hampshire Market Garden",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Festival finale with food, music and garden stalls.",
+    "details": "<p>For this final weekend of The Garden Festival, Hampshire Market Garden is hosting a special Summer Gala.</p><p>The gardens will be open to browse, with stalls, live music, and local food and drink.</p><p>Free entry</p>",
+    "tags": [
+      "Performance",
+      "Music",
+      "Free",
+      "Garden",
+      "Outdoor",
+      "Food & Drink",
+      "Market",
+      "Community"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/hampshire-market-garden-summer-gala/thumb.jpg",
+      "cover": "images/events/hampshire-market-garden-summer-gala/cover.jpg",
+      "gallery": [
+        "images/events/hampshire-market-garden-summer-gala/1.jpg",
+        "images/events/hampshire-market-garden-summer-gala/2.jpg",
+        "images/events/hampshire-market-garden-summer-gala/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  },
+  {
+    "id": "dinner-on-the-terrace",
+    "name": "Dinner on the Terrace in partnership with Hampshire Pantry",
+    "venue": "The Deane House",
+    "location": {
+      "street": "Woodman Lane, Sparsholt",
+      "postcode": "SO21 2LR",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-04",
+      "startTime": "18:30",
+      "endTime": "21:30"
+    },
+    "organiser": {
+      "name": "Hampshire Pantry",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "An elegant dinner with cocktails, wine and garden views.",
+    "details": "<p>The evening will begin with botanical cocktails and canapés in one of the magnificent gardens of The Deane House.</p><p>Enjoy a 2 course dinner with wines on the terrace, crafted from locally grown ingredients.</p><p>Tickets £75</p>",
+    "tags": [
+      "Performance",
+      "Music",
+      "Paid",
+      "Garden",
+      "Outdoor",
+      "Food & Drink"
+    ],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/dinner-on-the-terrace/thumb.jpg",
+      "cover": "images/events/dinner-on-the-terrace/cover.jpg",
+      "gallery": [
+        "images/events/dinner-on-the-terrace/1.jpg",
+        "images/events/dinner-on-the-terrace/2.jpg",
+        "images/events/dinner-on-the-terrace/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "paid",
+      "amount": 75,
+      "currency": "GBP",
+      "label": "Tickets £75"
+    }
+  },
+  {
+    "id": "gardens-landscapes-horticulture-art-exhibition-07-05",
+    "name": "Gardens, Landscapes & Horticulture in Art Exhibition",
+    "venue": "Milner Hall",
+    "location": {
+      "street": "St Peter’s Church, Jewry Street",
+      "postcode": "SO23 8RY",
+      "city": "Winchester",
+      "lat": null,
+      "lng": null
+    },
+    "datetime": {
+      "startDate": "2026-07-05",
+      "endDate": "2026-07-05",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": null,
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A city centre exhibition of local artists and glass makers.",
+    "details": "<p>Come and admire the work of 16 talented local artists and glass makers displayed in this lovely, little-known city centre converted chapel set in pleasant gardens.</p><p>The artists include Emma Lowres, Julie Hepenstal, Jean Wheeler, Kirsten Shaw, Abigail McKern, Sue Watson, Melanie Bliss, Julie McRae, Pradeepa David, Pat Clarke, Jean Bassington, Katy McIntyre Brown, Liz Cox, Andrea Findlay, Sheila Topley, and Nadine Collingwood. All work on display will be for sale. Access via Jewry Street or St. Peter’s Street.</p><p>10am - 5pm with Preview Evening from 6 - 8pm on 29th June.</p><p>Free entry</p>",
+    "tags": ["Exhibition", "Free", "Art", "Garden", "Indoor"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": ""
+    },
+    "media": {
+      "thumbnail": "images/events/gardens-landscapes-horticulture-art-exhibition/thumb.jpg",
+      "cover": "images/events/gardens-landscapes-horticulture-art-exhibition/cover.jpg",
+      "gallery": [
+        "images/events/gardens-landscapes-horticulture-art-exhibition/1.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/2.jpg",
+        "images/events/gardens-landscapes-horticulture-art-exhibition/3.jpg"
+      ],
+      "panorama": null
+    },
+    "cost": {
+      "type": "free",
+      "amount": 0,
+      "currency": "GBP",
+      "label": "Free entry"
+    }
+  }
+]

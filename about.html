@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About | Winchester Garden Festival</title>
+
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+  </head>
+
+  <body>
+    <div class="bg-overlay"></div>
+
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <button
+      id="open-sidebar-button"
+      type="button"
+      aria-label="open sidebar"
+      aria-expanded="false"
+      aria-controls="navbar"
+    >
+      ☰
+    </button>
+
+    <nav id="navbar">
+      <ul>
+        <li>
+          <button
+            id="close-sidebar-button"
+            type="button"
+            aria-label="close sidebar"
+          >
+            ✕
+          </button>
+        </li>
+
+        <li class="home-li">
+          <a href="index.html" class="nav-logo-link">
+            <img
+              class="nav-logo"
+              src="Web-Assets/logo-placeholder.svg"
+              alt="Winchester Garden Festival logo"
+            />
+            <span>The Garden Festival</span>
+          </a>
+        </li>
+
+        <li><a href="events.html">Events</a></li>
+        <li><a href="map.html">Map</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li>
+          <a class="active-link" aria-current="page" href="about.html">About</a>
+        </li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div id="overlay" aria-hidden="true"></div>
+
+    <main id="main-content" class="about-page">
+      <section class="about-hero">
+        <div>
+          <h1>About Winchester Garden Festival</h1>
+          <p>
+            Winchester Garden Festival celebrates gardens, creativity,
+            community, and nature through events across the city.
+          </p>
+        </div>
+      </section>
+
+      <section class="about-grid">
+        <article class="about-card">
+          <h2>What is the festival?</h2>
+          <p>
+            The festival brings together talks, tours, workshops, exhibitions,
+            performances, and family-friendly activities inspired by gardens and
+            outdoor spaces.
+          </p>
+        </article>
+
+        <article class="about-card">
+          <h2>Our aim</h2>
+          <p>
+            We want to help people discover Winchester’s green spaces, support
+            local organisers, and encourage more people to connect with nature.
+          </p>
+        </article>
+
+        <article class="about-card">
+          <h2>Who is it for?</h2>
+          <p>
+            Everyone. Whether you are a gardener, artist, family, visitor,
+            student, or local resident, there are events designed to be
+            accessible and welcoming.
+          </p>
+        </article>
+      </section>
+      <section class="about-organisers">
+        <h2>Festival organisers</h2>
+        <p class="organisers-intro">
+          The Winchester Garden Festival is brought to life by a network of
+          local organisers, venues, artists, and community groups.
+        </p>
+
+        <div class="organisers-grid">
+          <div class="organiser-card">
+            <img
+              src="Web-Assets/logo-placeholder.svg"
+              alt="Organisation logo"
+            />
+            <h3>Winchester City Council</h3>
+            <p>
+              Supporting local events and community initiatives across the city.
+            </p>
+          </div>
+
+          <div class="organiser-card">
+            <img
+              src="Web-Assets/logo-placeholder.svg"
+              alt="Organisation logo"
+            />
+            <h3>Local Garden Groups</h3>
+            <p>
+              Community-led groups sharing knowledge, hosting workshops, and
+              opening their spaces to visitors.
+            </p>
+          </div>
+
+          <div class="organiser-card">
+            <img
+              src="Web-Assets/logo-placeholder.svg"
+              alt="Organisation logo"
+            />
+            <h3>Independent Creators</h3>
+            <p>
+              Artists, performers, and designers bringing unique experiences to
+              the festival.
+            </p>
+          </div>
+
+          <div class="organiser-card">
+            <img
+              src="Web-Assets/logo-placeholder.svg"
+              alt="Organisation logo"
+            />
+            <h3>Local Venues</h3>
+            <p>
+              From historic buildings to hidden gardens, venues across
+              Winchester host events throughout the festival.
+            </p>
+          </div>
+        </div>
+      </section>
+      <section class="about-people">
+        <h2>Meet the people behind the festival</h2>
+        <p class="people-intro">
+          The festival is supported by local organisers, volunteers, artists,
+          speakers, and community members who help bring each event to life.
+        </p>
+
+        <div class="people-grid">
+          <article class="person-card">
+            <img
+              src="Web-Assets/profile-placeholder.png"
+              alt="Profile placeholder"
+            />
+            <h3>Alex Green</h3>
+            <p class="person-role">Festival Coordinator</p>
+            <p>
+              Helps organise the programme, support event hosts, and keep the
+              festival running smoothly.
+            </p>
+          </article>
+
+          <article class="person-card">
+            <img
+              src="Web-Assets/profile-placeholder.png"
+              alt="Profile placeholder"
+            />
+            <h3>Sam Rivers</h3>
+            <p class="person-role">Community Lead</p>
+            <p>
+              Works with local groups and venues to make sure the festival feels
+              open, welcoming, and accessible.
+            </p>
+          </article>
+
+          <article class="person-card">
+            <img
+              src="Web-Assets/profile-placeholder.png"
+              alt="Profile placeholder"
+            />
+            <h3>Morgan Fields</h3>
+            <p class="person-role">Creative Programmer</p>
+            <p>
+              Supports artists, workshops, and performances across the festival
+              programme.
+            </p>
+          </article>
+
+          <article class="person-card">
+            <img
+              src="Web-Assets/profile-placeholder.png"
+              alt="Profile placeholder"
+            />
+            <h3>Jamie Brooks</h3>
+            <p class="person-role">Volunteer Support</p>
+            <p>
+              Helps coordinate volunteers and visitor support during festival
+              events.
+            </p>
+          </article>
+        </div>
+      </section>
+      <section class="about-panel">
+        <h2>Explore the festival</h2>
+        <p>
+          Use the events page to browse what’s on, filter by date or interest,
+          and open the map to find activities across Winchester.
+        </p>
+
+        <div class="about-actions">
+          <a class="book-button" href="events.html">View events</a>
+          <a class="book-button secondary" href="map.html">Open map</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-container">
+        <div class="footer-section">
+          <h3>Winchester Garden Festival</h3>
+          <p>Celebrating nature, art, and community across Winchester.</p>
+        </div>
+
+        <div class="footer-section">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="map.html">Map</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h4>Info</h4>
+          <ul>
+            <li><a href="#">Tickets</a></li>
+            <li><a href="#">Accessibility</a></li>
+            <li><a href="#">FAQs</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h4>Follow</h4>
+          <div class="footer-socials">
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>© 2026 Winchester Garden Festival</p>
+      </div>
+    </footer>
+  </body>
+</html>

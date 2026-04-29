@@ -1,0 +1,348 @@
+[
+  {
+    "id": "sculpture-in-the-garden",
+    "name": "Sculpture in the Garden",
+    "venue": "Quaker Meeting House",
+    "location": {
+      "street": "16 Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester",
+      "lat": 51.0615,
+      "lng": -1.3131
+    },
+    "datetime": {
+      "startDate": "2026-06-21",
+      "endDate": "2026-06-21",
+      "startTime": "14:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "Wessex Sculptors",
+      "email": "callum@gmail.com",
+      "phone": "0757575"
+    },
+    "snippet": "Admire sculptures displayed in the peaceful walled gardens.",
+    "details": "<p>Come and admire the work of the Wessex Sculptors set in the delightful walled gardens of the Quaker Meeting House.</p><p>This peaceful outdoor setting provides the perfect backdrop to explore a range of contemporary sculptures.</p><p><a href=\"https://example.com\" target=\"_blank\">Visit more info</a></p>",
+    "tags": ["Art", "Garden", "Outdoor", "Free"],
+    "booking": {
+      "type": "eventbrite",
+      "eventbriteId": "43896296003"
+    },
+    "media": {
+      "thumbnail": "images/events/sculpture-in-the-garden/thumb.jpg",
+      "cover": "images/events/sculpture-in-the-garden/cover.jpg",
+      "gallery": [
+        "images/events/sculpture-in-the-garden/1.png",
+        "images/events/sculpture-in-the-garden/2.png",
+        "images/events/sculpture-in-the-garden/3.png"
+      ],
+      "panorama": "https://pannellum.org/images/alma.jpg"
+    }
+  },
+  {
+    "id": "wildflower-meadows-talk",
+    "name": "Wildflower Meadows Talk",
+    "venue": "Winchester Royal Hotel",
+    "location": {
+      "street": "St Peter Street",
+      "postcode": "SO23 8BS",
+      "city": "Winchester"
+    },
+    "datetime": {
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-24",
+      "startTime": "14:00",
+      "endTime": "15:00"
+    },
+    "organiser": {
+      "name": "Wessex Sculptors",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Learn how wildflower meadows support wildlife and soil health.",
+    "details": "Michael and Jane Joseph share their experience creating and maintaining a native wildflower meadow over decades.",
+    "tags": ["Talk", "Garden", "Indoor", "Paid"],
+    "media": {
+      "thumbnail": "images/events/wildflower-meadows-talk/thumb.jpg",
+      "cover": "images/events/wildflower-meadows-talk/cover.jpg",
+      "gallery": [
+        "images/events/wildflower-meadows-talk/1.jpg",
+        "images/events/wildflower-meadows-talk/2.jpg",
+        "images/events/wildflower-meadows-talk/3.jpg"
+      ],
+      "panorama": null
+    }
+  },
+  {
+    "id": "kitchen-garden-tour",
+    "name": "Kitchen Garden Tour",
+    "venue": "Lainston House",
+    "location": {
+      "street": "Woodman Lane, Sparsholt",
+      "postcode": "SO21 2LT",
+      "city": "Winchester"
+    },
+    "datetime": {
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-25",
+      "startTime": "11:00",
+      "endTime": "11:45"
+    },
+    "organiser": {
+      "name": "Lainston House Garden Team",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Explore a working kitchen garden and learn seasonal growing tips.",
+    "details": "Join the head gardener for an insightful tour covering seasonal produce, crop rotation and sustainable gardening.",
+    "tags": ["Walk", "Garden", "Outdoor", "Ticketed"],
+    "media": {
+      "thumbnail": "images/events/kitchen-garden-tour/thumb.jpg",
+      "cover": "images/events/kitchen-garden-tour/cover.jpg",
+      "gallery": [
+        "images/events/kitchen-garden-tour/1.jpg",
+        "images/events/kitchen-garden-tour/2.jpg",
+        "images/events/kitchen-garden-tour/3.jpg"
+      ],
+      "panorama": null
+    }
+  },
+  {
+    "id": "art-in-the-front-garden",
+    "name": "Art in the Front Garden",
+    "venue": "69 Hyde Street",
+    "location": {
+      "street": "Hyde Street",
+      "postcode": "SO23 7DW",
+      "city": "Winchester"
+    },
+    "datetime": {
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-28",
+      "startTime": "11:00",
+      "endTime": "16:00"
+    },
+    "organiser": {
+      "name": "Michele Gudino",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Drop-in art sessions inspired by flowers and garden life.",
+    "details": "Visitors can sketch and paint flowers in a relaxed outdoor setting with guidance from local artists.",
+    "tags": ["Art", "Workshop", "Outdoor", "Free"],
+    "media": {
+      "thumbnail": "images/events/art-in-the-front-garden/thumb.jpg",
+      "cover": "images/events/art-in-the-front-garden/cover.jpg",
+      "gallery": [
+        "images/events/art-in-the-front-garden/1.jpg",
+        "images/events/art-in-the-front-garden/2.jpg",
+        "images/events/art-in-the-front-garden/3.jpg"
+      ],
+      "panorama": null
+    }
+  },
+  {
+    "id": "garden-wellbeing-talk",
+    "name": "Gardens for Wellbeing",
+    "venue": "Quaker Meeting House",
+    "location": {
+      "street": "16 Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester"
+    },
+    "datetime": {
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-24",
+      "startTime": "18:30",
+      "endTime": "19:30"
+    },
+    "organiser": {
+      "name": "Garden for Mind",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Discover how gardening supports mental wellbeing.",
+    "details": "A thoughtful talk exploring the emotional and therapeutic value of gardening and nature connection.",
+    "tags": ["Talk", "Wellbeing", "Indoor", "Paid"],
+    "media": {
+      "thumbnail": "images/events/garden-wellbeing-talk/thumb.jpg",
+      "cover": "images/events/garden-wellbeing-talk/cover.jpg",
+      "gallery": [
+        "images/events/garden-wellbeing-talk/1.jpg",
+        "images/events/garden-wellbeing-talk/2.jpg",
+        "images/events/garden-wellbeing-talk/3.jpg"
+      ],
+      "panorama": null
+    }
+  },
+  {
+    "id": "picnic-concert-lake",
+    "name": "Picnic Concert by the Lake",
+    "venue": "Church Paddock Fishery",
+    "location": {
+      "street": "Headbourne Worthy",
+      "postcode": "SO23 7JQ",
+      "city": "Winchester"
+    },
+    "datetime": {
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-28",
+      "startTime": "19:00",
+      "endTime": "22:00"
+    },
+    "organiser": {
+      "name": "Festival Music Collective",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "An informal outdoor concert beside a scenic lake.",
+    "details": "Bring chairs and a picnic to enjoy an evening of live music surrounded by nature.",
+    "tags": ["Music", "Performance", "Outdoor", "Paid"],
+    "media": {
+      "thumbnail": "images/events/picnic-concert-lake/thumb.jpg",
+      "cover": "images/events/picnic-concert-lake/cover.jpg",
+      "gallery": [
+        "images/events/picnic-concert-lake/1.jpg",
+        "images/events/picnic-concert-lake/2.jpg",
+        "images/events/picnic-concert-lake/3.jpg"
+      ],
+      "panorama": null
+    }
+  },
+  {
+    "id": "festival-of-flowers",
+    "name": "Festival of Flowers",
+    "venue": "Hinton Ampner House",
+    "location": {
+      "street": "",
+      "postcode": "SO24 0LA",
+      "city": "Alresford"
+    },
+    "datetime": {
+      "startDate": "2026-06-22",
+      "endDate": "2026-06-29",
+      "startTime": "10:00",
+      "endTime": "17:00"
+    },
+    "organiser": {
+      "name": "National Trust",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Celebrate floral design in historic surroundings.",
+    "details": "A week-long celebration of floral displays, talks and guided tours in a historic house and garden.",
+    "tags": ["Garden", "Exhibition", "Outdoor", "Paid"],
+    "media": {
+      "thumbnail": "images/events/festival-of-flowers/thumb.jpg",
+      "cover": "images/events/festival-of-flowers/cover.jpg",
+      "gallery": [
+        "images/events/festival-of-flowers/1.jpg",
+        "images/events/festival-of-flowers/2.jpg",
+        "images/events/festival-of-flowers/3.jpg"
+      ],
+      "panorama": null
+    }
+  },
+  {
+    "id": "guided-nature-connection",
+    "name": "Guided Nature Connection",
+    "venue": "Quaker Meeting House Gardens",
+    "location": {
+      "street": "16 Colebrook Street",
+      "postcode": "SO23 9LH",
+      "city": "Winchester"
+    },
+    "datetime": {
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-25",
+      "startTime": "12:15",
+      "endTime": "13:15"
+    },
+    "organiser": {
+      "name": "Nature Connection Collective",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "A mindful outdoor experience connecting with nature.",
+    "details": "Gentle guided activities including sensory awareness, walking meditation and creative nature journaling.",
+    "tags": ["Wellbeing", "Nature", "Outdoor", "Ticketed"],
+    "media": {
+      "thumbnail": "images/events/guided-nature-connection/thumb.jpg",
+      "cover": "images/events/guided-nature-connection/cover.jpg",
+      "gallery": [
+        "images/events/guided-nature-connection/1.jpg",
+        "images/events/guided-nature-connection/2.jpg",
+        "images/events/guided-nature-connection/3.jpg"
+      ],
+      "panorama": null
+    }
+  },
+  {
+    "id": "community-herb-garden-day",
+    "name": "Community Herb Garden Day",
+    "venue": "St Bartholomew’s Church",
+    "location": {
+      "street": "Hyde",
+      "postcode": "SO23 7DN",
+      "city": "Winchester"
+    },
+    "datetime": {
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-28",
+      "startTime": "10:00",
+      "endTime": "16:00"
+    },
+    "organiser": {
+      "name": "Hyde Community Group",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Celebrate community gardening with talks, stalls and activities.",
+    "details": "A full day of events including tours, workshops and family-friendly activities around the new herb garden.",
+    "tags": ["Community", "Family Friendly", "Outdoor", "Free"],
+    "media": {
+      "thumbnail": "images/events/community-herb-garden-day/thumb.jpg",
+      "cover": "images/events/community-herb-garden-day/cover.jpg",
+      "gallery": [
+        "images/events/community-herb-garden-day/1.jpg",
+        "images/events/community-herb-garden-day/2.jpg",
+        "images/events/community-herb-garden-day/3.jpg"
+      ],
+      "panorama": null
+    }
+  },
+  {
+    "id": "plant-fair-school-gardens",
+    "name": "Plant Fair & School Garden Tours",
+    "venue": "Itchen Abbas Primary School",
+    "location": {
+      "street": "Itchen Abbas",
+      "postcode": "SO21 1BE",
+      "city": "Winchester"
+    },
+    "datetime": {
+      "startDate": "2026-06-28",
+      "endDate": "2026-06-28",
+      "startTime": "12:00",
+      "endTime": "15:00"
+    },
+    "organiser": {
+      "name": "Itchen Abbas School",
+      "email": null,
+      "phone": null
+    },
+    "snippet": "Explore school gardens, stalls and community activities.",
+    "details": "Enjoy plant sales, children’s gardening displays and family-friendly festival activities.",
+    "tags": ["Garden", "Family Friendly", "Market", "Free"],
+    "media": {
+      "thumbnail": "images/events/plant-fair-school-gardens/thumb.jpg",
+      "cover": "images/events/plant-fair-school-gardens/cover.jpg",
+      "gallery": [
+        "images/events/plant-fair-school-gardens/1.jpg",
+        "images/events/plant-fair-school-gardens/2.jpg",
+        "images/events/plant-fair-school-gardens/3.jpg"
+      ],
+      "panorama": null
+    }
+  }
+]

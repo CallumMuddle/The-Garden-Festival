@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gallery | Winchester Garden Festival</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <script src="js/gallery.js" defer></script>
+  </head>
+  <body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <button
+      id="open-sidebar-button"
+      onclick="openSidebar()"
+      aria-label="open sidebar"
+      aria-expanded="false"
+      aria-controls="navbar"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        height="40px"
+        viewBox="0 -960 960 960"
+        width="40px"
+        fill="#c9c9c9"
+      >
+        <path
+          d="M165.13-254.62q-10.68 0-17.9-7.26-7.23-7.26-7.23-18t7.23-17.86q7.22-7.13 17.9-7.13h629.74q10.68 0 17.9 7.26 7.23 7.26 7.23 18t-7.23 17.87q-7.22 7.12-17.9 7.12H165.13Zm0-200.25q-10.68 0-17.9-7.27-7.23-7.26-7.23-17.99 0-10.74 7.23-17.87 7.22-7.13 17.9-7.13h629.74q10.68 0 17.9 7.27 7.23 7.26 7.23 17.99 0 10.74-7.23 17.87-7.22 7.13-17.9 7.13H165.13Zm0-200.26q-10.68 0-17.9-7.26-7.23-7.26-7.23-18t7.23-17.87q7.22-7.12 17.9-7.12h629.74q10.68 0 17.9 7.26 7.23 7.26 7.23 18t-7.23 17.86q-7.22 7.13-17.9 7.13H165.13Z"
+        />
+      </svg>
+    </button>
+
+    <nav id="navbar">
+      <ul>
+        <li>
+          <button
+            id="close-sidebar-button"
+            type="button"
+            onclick="closeSidebar()"
+            aria-label="close sidebar"
+          >
+            ✕
+          </button>
+        </li>
+
+        <li class="home-li">
+          <a href="index.html" class="nav-logo-link">
+            <img
+              class="nav-logo"
+              src="Web-Assets/logo-placeholder.svg"
+              alt="Winchester Garden Festival logo"
+            />
+            <span>The Garden Festival</span>
+          </a>
+        </li>
+
+        <li>
+          <a class="active-link" aria-current="page" href="events.html"
+            >Events</a
+          >
+        </li>
+        <li><a href="map.html">Map</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div id="overlay" onclick="closeSidebar()" aria-hidden="true"></div>
+
+    <main id="main-content" class="gallery-shell">
+      <section class="gallery-header">
+        <div class="event-title-bar large">Festival Gallery</div>
+        <p class="gallery-intro">
+          Explore highlights from across the Winchester Garden Festival.
+        </p>
+      </section>
+
+      <section class="gallery-controls">
+        <label for="gallerySearch">Search:</label>
+        <input
+          id="gallerySearch"
+          type="text"
+          placeholder="Search event or venue"
+        />
+      </section>
+
+      <div id="galleryGrid" class="gallery-grid">
+        <p>Loading gallery…</p>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-container">
+        <div class="footer-section">
+          <h3>Winchester Garden Festival</h3>
+          <p>Celebrating nature, art, and community across Winchester.</p>
+        </div>
+
+        <div class="footer-section">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="#">Map</a></li>
+            <li><a href="#">About</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h4>Info</h4>
+          <ul>
+            <li><a href="#">Tickets</a></li>
+            <li><a href="#">Accessibility</a></li>
+            <li><a href="#">FAQs</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h4>Follow</h4>
+          <div class="footer-socials">
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>© 2026 Winchester Garden Festival</p>
+      </div>
+    </footer>
+
+    <div id="galleryLightbox" class="media-lightbox hidden" aria-hidden="true">
+      <button
+        id="galleryLightboxClose"
+        class="lightbox-close"
+        aria-label="Close image"
+      >
+        ×
+      </button>
+      <div id="galleryLightboxBackdrop" class="lightbox-backdrop">
+        <div id="galleryLightboxContent" class="lightbox-content"></div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Festival Map</title>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js" defer></script>
+    <script src="js/map.js" defer></script>
+  </head>
+
+  <body>
+    <div class="bg-overlay"></div>
+
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <button
+      id="open-sidebar-button"
+      onclick="openSidebar()"
+      aria-label="open sidebar"
+      aria-expanded="false"
+      aria-controls="navbar"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        height="40px"
+        viewBox="0 -960 960 960"
+        width="40px"
+        fill="#c9c9c9"
+      >
+        <path
+          d="M165.13-254.62q-10.68 0-17.9-7.26-7.23-7.26-7.23-18t7.23-17.86q7.22-7.13 17.9-7.13h629.74q10.68 0 17.9 7.26 7.23 7.26 7.23 18t-7.23 17.87q-7.22 7.12-17.9 7.12H165.13Zm0-200.25q-10.68 0-17.9-7.27-7.23-7.26-7.23-17.99 0-10.74 7.23-17.87 7.22-7.13 17.9-7.13h629.74q10.68 0 17.9 7.27 7.23 7.26 7.23 17.99 0 10.74-7.23 17.87-7.22 7.13-17.9 7.13H165.13Zm0-200.26q-10.68 0-17.9-7.26-7.23-7.26-7.23-18t7.23-17.87q7.22-7.12 17.9-7.12h629.74q10.68 0 17.9 7.26 7.23 7.26 7.23 18t-7.23 17.86q-7.22 7.13-17.9 7.13H165.13Z"
+        />
+      </svg>
+    </button>
+
+    <nav id="navbar">
+      <ul>
+        <li>
+          <button
+            id="close-sidebar-button"
+            onclick="closeSidebar()"
+            aria-label="close sidebar"
+          >
+            ✕
+          </button>
+        </li>
+
+        <li class="home-li">
+          <a href="index.html" class="nav-logo-link">
+            <img
+              class="nav-logo"
+              src="Web-Assets/logo-placeholder.svg"
+              alt="Winchester Garden Festival logo"
+            />
+            <span>Winchester Garden Festival</span>
+          </a>
+        </li>
+
+        <li><a href="events.html">Events</a></li>
+        <li>
+          <a class="active-link" aria-current="page" href="map.html">Map</a>
+        </li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div id="overlay" onclick="closeSidebar()" aria-hidden="true"></div>
+
+    <main id="main-content" class="map-page">
+      <section class="map-header">
+        <h1>Festival Map</h1>
+        <p>
+          Explore events across Winchester. Filter by date, type, or interest,
+          then select a map pin to view event details.
+        </p>
+      </section>
+
+      <section class="map-controls">
+        <div class="date-filter-wrapper">
+          <label for="mapDateSelect">Date</label>
+          <select id="mapDateSelect" class="date-select"></select>
+        </div>
+
+        <div id="mapTagBar" class="tag-bar"></div>
+
+        <div id="mapActiveFilters" class="active-filters"></div>
+      </section>
+
+      <section class="map-layout">
+        <div class="festival-map-wrapper">
+          <div
+            id="festivalMap"
+            class="festival-map"
+            aria-label="Festival event map"
+          ></div>
+
+          <aside id="mapEventPanel" class="map-event-panel">
+            <div class="map-panel-empty">
+              <h2>Select an event</h2>
+              <p>
+                Click a map pin to see the event image, location, date, and
+                details.
+              </p>
+            </div>
+          </aside>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-container">
+        <div class="footer-section">
+          <h3>Winchester Garden Festival</h3>
+          <p>Celebrating nature, art, and community across Winchester.</p>
+        </div>
+
+        <div class="footer-section">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="map.html">Map</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h4>Info</h4>
+          <ul>
+            <li><a href="#">Tickets</a></li>
+            <li><a href="#">Accessibility</a></li>
+            <li><a href="#">FAQs</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h4>Follow</h4>
+          <div class="footer-socials">
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>© 2026 Winchester Garden Festival</p>
+      </div>
+    </footer>
+  </body>
+</html>

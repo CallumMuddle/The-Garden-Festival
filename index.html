@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Winchester Garden Festival</title>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <script src="script.js" defer></script>
+  </head>
+
+  <body>
+    <div class="bg-overlay"></div>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <!-- NAV (same as yours) -->
+    <button
+      id="open-sidebar-button"
+      onclick="openSidebar()"
+      aria-label="open sidebar"
+      aria-expanded="false"
+      aria-controls="navbar"
+    >
+      ☰
+    </button>
+
+    <nav id="navbar">
+      <ul>
+        <li>
+          <button
+            id="close-sidebar-button"
+            type="button"
+            onclick="closeSidebar()"
+            aria-label="close sidebar"
+          >
+            ✕
+          </button>
+        </li>
+
+        <li class="home-li">
+          <a href="index.html" class="nav-logo-link">
+            <img
+              class="nav-logo"
+              src="Web-Assets/logo-placeholder.svg"
+              alt="Winchester Garden Festival logo"
+            />
+            <span>The Garden Festival</span>
+          </a>
+        </li>
+
+        <li><a href="events.html">Events</a></li>
+        <li><a href="map.html">Map</a></li>
+        <li><a href="gallery.html">Gallery</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div id="overlay" onclick="closeSidebar()" aria-hidden="true"></div>
+
+    <!-- MAIN -->
+    <main id="main-content" class="home-page">
+      <!-- HERO -->
+      <section class="home-hero centered">
+        <div class="home-hero-center">
+          <img
+            src="Web-Assets/logo-placeholder.svg"
+            alt="Winchester Garden Festival logo"
+            class="home-logo"
+          />
+
+          <h1>The Garden Festival</h1>
+
+          <p>Gardens, creativity, and community across Winchester.</p>
+
+          <div class="home-hero-actions">
+            <a href="events.html" class="book-button">Browse events</a>
+            <a href="map.html" class="book-button secondary">Explore map</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- QUICK LINKS -->
+      <section class="home-quick">
+        <a href="events.html" class="quick-card">
+          <h3>Events</h3>
+          <p>Browse all events happening across the festival.</p>
+        </a>
+
+        <a href="map.html" class="quick-card">
+          <h3>Map</h3>
+          <p>Find events near you across Winchester.</p>
+        </a>
+
+        <a href="gallery.html" class="quick-card">
+          <h3>Gallery</h3>
+          <p>Explore photos from events and locations.</p>
+        </a>
+      </section>
+
+      <!-- FEATURED EVENTS (placeholder for now) -->
+      <section class="home-featured">
+        <div class="section-header">
+          <h2>Featured events</h2>
+          <a href="events.html">View all →</a>
+        </div>
+
+        <div class="featured-grid" id="featuredGrid"></div>
+      </section>
+
+      <!-- ABOUT PREVIEW -->
+      <section class="home-about">
+        <div class="home-about-content">
+          <h2>About the festival</h2>
+          <p>
+            The Winchester Garden Festival brings together gardens, art,
+            workshops, talks, and community events across the city. Whether
+            you're exploring hidden green spaces or attending creative sessions,
+            there's something for everyone.
+          </p>
+
+          <a href="about.html" class="book-button">Learn more</a>
+        </div>
+      </section>
+
+      <!-- CTA -->
+      <section class="home-cta">
+        <h2>Plan your visit</h2>
+        <p>Start exploring events and build your festival experience.</p>
+        <a href="events.html" class="book-button">Start exploring</a>
+      </section>
+    </main>
+
+    <!-- FOOTER (same as yours) -->
+    <footer class="site-footer">
+      <div class="footer-container">
+        <div class="footer-section">
+          <h3>Winchester Garden Festival</h3>
+          <p>Celebrating nature, art, and community across Winchester.</p>
+        </div>
+
+        <div class="footer-section">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="map.html">Map</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h4>Info</h4>
+          <ul>
+            <li><a href="#">Tickets</a></li>
+            <li><a href="#">Accessibility</a></li>
+            <li><a href="#">FAQs</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h4>Follow</h4>
+          <div class="footer-socials">
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>© 2026 Winchester Garden Festival</p>
+      </div>
+    </footer>
+  </body>
+</html>
